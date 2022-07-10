@@ -23,8 +23,8 @@ Dr. Shuo Yu is currently an Assistant Professor in School of Computer Science an
 
 
 # 🔥 News
-- Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
-- CALL FOR PAPERS in ICDM Workshop on Knowledge Graphs (KG2022)
+- 🎉 Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
+- 🎉 CALL FOR PAPERS in ICDM Workshop on Knowledge Graphs ([KG2022](http://www.kgworkshop.org/2022/))
 
 # Educations
 
