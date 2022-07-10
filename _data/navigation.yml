@@ -7,25 +7,25 @@ main:
     url: "/#-news"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Research Interest"
-    url: "/#-research-interest"
+    url: "/#research-interest"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-wards"
+    url: "/#honors-and-wards"
 
   - title: "Academic Activities"
-    url: "/#-academic-activities"
+    url: "/#academic-activities"
 
   - title: "Invited Reviewer"
-    url: "/#-invited-reviewer"
+    url: "/#invited-reviewer"
 
   - title: "Fundings"
-    url: "/#-fundings"
+    url: "/#fundings"
 
   - title: "Conference Talks"
-    url: "/#-conference-talks"
+    url: "/#conference-talks"
 
   - title: "Selected Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
