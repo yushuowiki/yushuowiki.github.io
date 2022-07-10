@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shuo Yu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              :
+  avatar           : "images/profile.png"
+  bio              : "Associate Professor"
   location         : "Liaoning, China"
-  employer         : "Associate Professor"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl"
   email            : "yushuo@dlut.edu.cn"
