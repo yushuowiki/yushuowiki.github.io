@@ -9,10 +9,10 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-  - title: "Research Interest"
+  - title: "Research Interests"
     url: "/#research-interest"
 
-  - title: "Honors and Awards"
+  - title: "Awards"
     url: "/#honors-and-awards"
 
   - title: "Academic Activities"
@@ -24,8 +24,8 @@ main:
   - title: "Fundings"
     url: "/#fundings"
 
-  - title: "Conference Talks"
+  - title: "Talks"
     url: "/#conference-talks"
 
-  - title: "Selected Publications"
+  - title: "Publications"
     url: "/#selected-publications"
