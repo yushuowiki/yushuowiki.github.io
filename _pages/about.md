@@ -45,6 +45,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
   	<div class="right" style="box-sizing: border-box;">
       M.Sc. (School of Science), 2011-2014
     </div>
+  </li>
     <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
       Dalian University of Technology
