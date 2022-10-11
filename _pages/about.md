@@ -124,7 +124,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 - Graph Augmentation Learning. The 31st International World Wide Web Conference Workshop on Graph Learning, Virtual Conference, April 25-29, 2022
 - CRI:Measuring City Infection Risk amid COVID-19. IEEE International Conference on Computer Science and Data Engineering 2020 (IEEE CSDE 2020), Virtual Event, Australia, December 16-18, 2020 (Best Paper Award)
-- OFFER: A Motif Dimensional Framework for Network Representation Learning. The 29th ACM Inter- national Conference On Information And Knowledge Management (CIKM2020), Virtual Event, October 19-23, 2020
+- OFFER: A Motif Dimensional Framework for Network Representation Learning. The 29th ACM International Conference On Information And Knowledge Management (CIKM2020), Virtual Event, October 19-23, 2020
 - Multivariate Relations Aggregation Learning in Social Networks. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL 2020), Virtual Event, China, August 1-5, 2020 (The Vannevar Bush Best Paper Honorable Mention)
 - Mining Key Scholars via Collapsed Core and Truss. The 4th IEEE International Conference on Cyber Science and Technology Congress, Fukuoka, Japan, August 7, 2019
 - Team Recognition in Big Scholarly Data: Exploring Collaboration Intensity. The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6, 2017 (Best Paper Award)
@@ -150,7 +150,7 @@ Codes are available on https://github.com/yushuowiki.
 
 7. Feng Xia, Ke Sun, Shuo Yu, Aziz, Abdul, Liangtian Wan, Shirui Pan, Huan Liu. Graph Learning: A Survey, IEEE Transactions on Artificial Intelligence, Volume 8, April 2021, Pages 1016-1029. DOI: 10.1109/TAI.2021.3076021 \[[PDF](https://ieeexplore.ieee.org/document/9416834)\]
 
-8. Shuo Yu, Hayat Dino Bedru, Xinbei Chu, Yuyuan Yuan, Liangtian Wan, Feng Xia. Understanding Serendip- ity in Science: A Survey. Data Analysis and Knowledge Discovery, Volume 5, December 2020, Pages 16-35. DOI: 10.11925/infotech.2096-3467.2020.1088 \[[PDF](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2020.1088)\]
+8. Shuo Yu, Hayat Dino Bedru, Xinbei Chu, Yuyuan Yuan, Liangtian Wan, Feng Xia. Understanding Serendipity in Science: A Survey. Data Analysis and Knowledge Discovery, Volume 5, December 2020, Pages 16-35. DOI: 10.11925/infotech.2096-3467.2020.1088 \[[PDF](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2020.1088)\]
 
 9. Shuo Yu, Yufan Feng, Da Zhang, Hayat Dino Bedru, Bo Xu, Feng Xia. Motif discovery in networks: A survey. Computer Science Review. Volume 37, August 2020, Pages 100267. DOI: 10.1016/j.cosrev.2020.100267 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302850?via%3Dihub)\]
 
@@ -178,7 +178,7 @@ Codes are available on https://github.com/yushuowiki.
 
 21. Shuo Yu, Hayat Dino Bedru, Ivan Lee, Feng Xia. Science of Scientific Team Science: A Survey, Computer Science Review, Volume 31, February 2019, Pages 72-83. DOI: 10.1016/j.cosrev.2018.12.001 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1574013718303381)\]
 
-22. Yufan Feng, Shuo Yu, Kaiyuan Zhang, Xiangli Li, Zhaolong Ning. COMICS: a community property- based triangle motif clustering scheme. PeerJ Computer Science, Volume 5, March 2019, Pages e180. DOI 10.7717/peerj-cs.180 \[[PDF](https://peerj.com/articles/cs-180/)\]
+22. Yufan Feng, Shuo Yu, Kaiyuan Zhang, Xiangli Li, Zhaolong Ning. COMICS: a community property-based triangle motif clustering scheme. PeerJ Computer Science, Volume 5, March 2019, Pages e180. DOI 10.7717/peerj-cs.180 \[[PDF](https://peerj.com/articles/cs-180/)\]
 
 23. Kaiyuan Zhang, Shuo Yu, Liangtian Wan, Jianxin Li and Feng Xia. Predictive Representation Learning in Motif-based Graph Networks, The 32nd Australasian Joint Conference on Artificial Intelligence (AI2019), Adelaide, Australia, Dec 2-5, 2019. \[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_15)\]
 
@@ -198,7 +198,7 @@ Codes are available on https://github.com/yushuowiki.
 
 31. Shuo Yu, Jiaying Liu, Zhuo Yang, Zhen Chen, Huizhen Jiang, Amr Tolba, Feng Xia. PAVE: Personalized Academic Venue recommendation Exploiting co-publication networks. Journal of Network and Computer Applications, Volume 104, 15 February 2018, Pages 38-47. DOI: 10.1016/j.jnca.2017.12.004 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1084804517304009)\]
 
-32. Bo Xu, Yu Liu, Shuo Yu, Lei Wang, Lei Liu, Hongfei Lin, Zhihao Yang, Jian Wang, and Feng Xia. Mul- tipath2vec: Predicting Pathogenic Genes via Heterogeneous Network Embedding, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 3-6 December 2018, Madrid, Spain \[[PDF](https://www.computer.org/csdl/proceedings-article/bibm/2018/08621103/17D45WHONk3)\]
+32. Bo Xu, Yu Liu, Shuo Yu, Lei Wang, Lei Liu, Hongfei Lin, Zhihao Yang, Jian Wang, and Feng Xia. Multipath2vec: Predicting Pathogenic Genes via Heterogeneous Network Embedding, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 3-6 December 2018, Madrid, Spain \[[PDF](https://www.computer.org/csdl/proceedings-article/bibm/2018/08621103/17D45WHONk3)\]
 
 33. Shuo Yu, Feng Xia, Kaiyuan Zhang, Zhaolong Ning, Jiaofei Zhong and Chengfei Liu. Team Recognition in Big Scholarly Data: Exploring Collaboration Intensity, The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6-10, 2017. (Best Paper Award) \[[PDF](https://ieeexplore.ieee.org/abstract/document/8328499)\]
 
@@ -210,7 +210,7 @@ Codes are available on https://github.com/yushuowiki.
 
 37. Wei Wang, Zixin Cui, Tong Gao, Shuo Yu, Xiangjie Kong, Feng Xia. Is Scientific Collaboration Sustainability Predictable? The 26th International World Wide Web Conference (WWW), Poster Track, Perth, Australia, 3-7 April 2017. \[[PDF](https://dl.acm.org/doi/abs/10.1145/3041021.3054230)\]
 
-38. Wei Wang, Jiaying Liu, Shuo Yu, Chenxin Zhang, Zhenzhen Xu, Feng Xia. Mining advisor-advisee relation- ships in scholarly big data: A deep learning approach, ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2910896.2925435)\]
+38. Wei Wang, Jiaying Liu, Shuo Yu, Chenxin Zhang, Zhenzhen Xu, Feng Xia. Mining advisor-advisee relationships in scholarly big data: A deep learning approach, ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2910896.2925435)\]
 
 39. Xiaoyan Su, Wei Wang, Shuo Yu, Chenxin Zhang, Teshome Megersa Bekele, Feng Xia. Can academic conferences promote research collaboration? ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2910896.2925446)\]
 
