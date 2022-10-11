@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,13 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Shuo Yu is currently an Associate Professor in School of Computer Science and Technology, Dalian University of Technology. She has published over 50 papers in ACM/IEEE conferences, journals, as well as magazines, and received several academic awards, including IEEE DataCom 2017 Best Paper Award, IEEE CSDE 2020 Best Paper Award, ACM/IEEE JCDL 2020 The Vannevar Bush Best Paper Honorable Mention, and CAAI BDSC2022 Rising Star. Dr. Yu received more than 960 citations to her work. She has served as the Track Chair of Knowledge Graph Track on ACM/SIGAPP SAC 2022 (KG2021) and Program Chair of ICDM Workshop on Knowledge Graphs (KG2022), as well as PC member of many other international conferences. Her research interests include network science, data science, computational social science, and knowledge science. She is a Member of IEEE and ACM. She is a Lifelong Member of CAAI.
-
-<a href='https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>
+Dr. Shuo Yu is currently an Associate Professor in School of Computer Science and Technology, Dalian University of Technology. She has published over 50 papers in ACM/IEEE conferences, journals, as well as magazines, and received several academic awards, including IEEE DataCom 2017 Best Paper Award, IEEE CSDE 2020 Best Paper Award, ACM/IEEE JCDL 2020 The Vannevar Bush Best Paper Honorable Mention, and CAAI BDSC2022 Rising Star. Dr. Yu received <a href='https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl'><strong><span id='total_cit'>970</span></strong></a> citations to her work. She has served as the Track Chair of Knowledge Graph Track on ACM/SIGAPP SAC 2022 (KG2021) and Program Chair of ICDM Workshop on Knowledge Graphs (KG2022), as well as PC member of many other international conferences. Her research interests include network science, data science, computational social science, and knowledge science. She is a Member of IEEE and ACM. She is a Lifelong Member of CAAI.
 
 
 # 🔥 News
-
 - 🎉 Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
 - 🎉 CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science (https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)
 - 🎉 CALL FOR PAPERS in ICDM Workshop on Knowledge Graphs ([KG2022](https://www.kgworkshop.org/2022/))
@@ -73,7 +69,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     </div>
   </li>
 </ul> 
-
 
 # Research Interests
 
