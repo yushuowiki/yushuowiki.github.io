@@ -1,9 +1,5 @@
 name: Get Citation Data
 
-runs:
-  using: 'node16'
-  main: 'main.js'
-
 on: 
  page_build: 
  schedule:
