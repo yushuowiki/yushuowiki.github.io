@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -23,6 +24,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 
 # 🔥 News
+
 - 🎉 Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
 - 🎉 CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science (https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)
 - 🎉 CALL FOR PAPERS in ICDM Workshop on Knowledge Graphs ([KG2022](https://www.kgworkshop.org/2022/))
@@ -71,6 +73,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     </div>
   </li>
 </ul> 
+
 
 # Research Interests
 
@@ -132,7 +135,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 Codes are available on https://github.com/yushuowiki.
 
-1. Shuo Yu, Huafei Huang, Minh N. Dao, Feng Xia. Graph Augmentation Learning. The 31st Conference in the International World Wide Web Conference Workshop on Graph Learning, April 25-29, 2022, Virtual Conference. DOI: 10.1145/3487553.3524718 \[[PDF](https://www2022.thewebconf.org/PaperFiles/157.pdf)\]
+1. Shuo Yu, Huafei Huang, Minh N. Dao, Feng Xia. Graph Augmentation Learning. The 31st Conference in the International World Wide Web Conference Workshop on Graph Learning, April 25-29, 2022, Virtual Conference. DOI: 10.1145/3487553.3524718 \[[PDF](https://dl.acm.org/doi/10.1145/3487553.3524718)\]
 
 2. Shuo Yu, Feng Xia, Chen Zhang, Haoran Wei, Kathleen Keogh, Honglong Chen. Familiarity-based Collaborative Team Recognition in Academic Social Networks. IEEE Transactions on Computational Social Systems. DOI: 10.1109/TCSS.2021.3129054 \[[PDF](https://ieeexplore.ieee.org/document/9638311)\]
 
@@ -142,7 +145,7 @@ Codes are available on https://github.com/yushuowiki.
 
 5. Shuo Yu, Qing Qing, Chen Zhang, Ahsan Shehzad, Giles Oatley, Feng Xia. Data-Driven Decision-Making in COVID-19 Response: A Survey, IEEE Transactions on Computational Social Systems, Volume 8, August 2021, Pages 1016-1029. DOI: 10.1109/TCSS.2021.3075955 \[[PDF](https://ieeexplore.ieee.org/document/9444122)\]
 
-6. Feng Xia, Shuo Yu*, Chengfei Liu, Jian xin Li, Ivan Lee. CHIEF: Clustering with Higher order Motifs in Big Networks. IEEE Transactions on Network Science and Engineering. September 2021. DOI: 10.1109/TNSE.2021.3108974 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+6. Feng Xia, Shuo Yu*, Chengfei Liu, Jian xin Li, Ivan Lee. CHIEF: Clustering with Higher order Motifs in Big Networks. IEEE Transactions on Network Science and Engineering. September 2021. DOI: 10.1109/TNSE.2021.3108974 \[[PDF](https://ieeexplore.ieee.org/abstract/document/9527112)\]
 
 
 7. Feng Xia, Ke Sun, Shuo Yu, Aziz, Abdul, Liangtian Wan, Shirui Pan, Huan Liu. Graph Learning: A Survey, IEEE Transactions on Artificial Intelligence, Volume 8, April 2021, Pages 1016-1029. DOI: 10.1109/TAI.2021.3076021 \[[PDF](https://ieeexplore.ieee.org/document/9416834)\]
@@ -155,17 +158,17 @@ Codes are available on https://github.com/yushuowiki.
 
 11. Shuo Yu, Jiaying Liu, Feng Xia, Haoran Wei, Hanghang Tong. How to optimize an academic team when the outlier member is leaving? IEEE Intelligent Systems, Volume 36, May 2021, Pages 23-30. DOI: 10.1109/MIS.2020.3042871 \[[PDF](https://ieeexplore.ieee.org/document/9286424)\]
 
-12. Shuo Yu, Feng Xia, Jin Xu, Zhikui Chen, Ivan Lee. OFFER: A Motif Dimensional Framework for Net- work Representation Learning. The 29th ACM International Conference On Information And Knowledge Management (CIKM2020), Virtual Event, October 19-23, 2020. \[[PDF](https://dl.acm.org/doi/10.1145/3340531.3417446)\]
+12. Shuo Yu, Feng Xia, Jin Xu, Zhikui Chen, Ivan Lee. OFFER: A Motif Dimensional Framework for Network Representation Learning. The 29th ACM International Conference On Information And Knowledge Management (CIKM2020), Virtual Event, October 19-23, 2020. \[[PDF](https://dl.acm.org/doi/10.1145/3340531.3417446)\]
 
 13. Mingliang Liu, Shuo Yu*, Xinbei Chu, Feng Xia. CRI: Measuring City Infection Risk amid COVID-19. The Asia-Pacific Conference on Computer Science and Data Engineering 2020 (IEEE CSDE 2020), Virtual Event, Australia, December 16-18, 2020. (Best Paper Award) \[[PDF](https://www.computer.org/csdl/proceedings-article/csde/2020/09411559/1taF5c9NxtK)\]
 
 14. Jin Xu, Shuo Yu, Ke Sun, Jing Ren, Ivan Lee, Shirui Pan, Feng Xia, Multivariate Relations Aggregation Learning in Social Networks. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL 2020), Virtual Event, China, August 1-5, 2020. (The Vannevar Bush Best Paper Honorable Mention) \[[PDF]( https://dl.acm.org/doi/10.1145/3383583.3398518)\]
 
-15. Hayat Dino, Shuo Yu, Liangtian Wan, Mengyang Wang, Kaiyuan Zhang, He Guo, Iftikhar Hussain. De- tecting leaders and key members of scientific teams in co-authorship networks, Computers Electrical Engineering, Volume 85, July 2020, Pages 106703. DOI: 10.1016/j.compeleceng.2020.106703 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0045790620305589)\]
+15. Hayat Dino, Shuo Yu, Liangtian Wan, Mengyang Wang, Kaiyuan Zhang, He Guo, Iftikhar Hussain. Detecting leaders and key members of scientific teams in co-authorship networks, Computers Electrical Engineering, Volume 85, July 2020, Pages 106703. DOI: 10.1016/j.compeleceng.2020.106703 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0045790620305589)\]
 
 16. Hayat Dino Bedru, Shuo Yu, Xinru Xiao, Da Zhang, Liangtian Wan, He Guo, Feng Xia. Big networks: A survey. Computer Science Review. Volume 37: 100247 (2020). DOI: 10.1016/j.cosrev.2020.100247 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302825)\]
 
-17. Ke Sun, Jiaying Liu, Shuo Yu, Bo Xu, Feng Xia. Graph Force Learning. Proceedings of the IEEE International Conference on Big Data (IEEE BigData 2020), Virtual Event, December 10-13, 2020. \[[PDF]( https://www.computer.org/csdl/proceedings-article/big-data/2020/09378120/1s64ukWpJD2)\]
+17. Ke Sun, Jiaying Liu, Shuo Yu, Bo Xu, Feng Xia. Graph Force Learning. Proceedings of the IEEE International Conference on Big Data (IEEE BigData 2020), Virtual Event, December 10-13, 2020. \[[PDF](https://ieeexplore.ieee.org/abstract/document/9378120)\]
 
 18. Shuo Yu, Feng Xia, Huan Liu. Academic Team Formulation Based on Liebig’s Barrel: Discovery of Anti Cask Effect, IEEE Transactions on Computational Social Systems, Volume 6, October 2019, Pages 1083-1094. DOI: 10.1109/TCSS.2019.2913460 \[[PDF](https://ieeexplore.ieee.org/document/8736490)\]
 
