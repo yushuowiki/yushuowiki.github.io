@@ -165,106 +165,54 @@ Codes are available on https://github.com/yushuowiki.
 
 16. Hayat Dino Bedru, Shuo Yu, Xinru Xiao, Da Zhang, Liangtian Wan, He Guo, Feng Xia. Big networks: A survey. Computer Science Review. Volume 37: 100247 (2020). DOI: 10.1016/j.cosrev.2020.100247 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302825)\]
 
-17. Ke Sun, Jiaying Liu, Shuo Yu, Bo Xu, Feng Xia. Graph Force Learning. Proceedings of the IEEE International Conference on Big Data (IEEE BigData 2020), Virtual Event, December 10-13, 2020. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+17. Ke Sun, Jiaying Liu, Shuo Yu, Bo Xu, Feng Xia. Graph Force Learning. Proceedings of the IEEE International Conference on Big Data (IEEE BigData 2020), Virtual Event, December 10-13, 2020. \[[PDF]( https://www.computer.org/csdl/proceedings-article/big-data/2020/09378120/1s64ukWpJD2)\]
 
-    Paper: https://www.computer.org/csdl/proceedings-article/big-data/2020/09378120/1s64ukWpJD2
+18. Shuo Yu, Feng Xia, Huan Liu. Academic Team Formulation Based on Liebig’s Barrel: Discovery of Anti Cask Effect, IEEE Transactions on Computational Social Systems, Volume 6, October 2019, Pages 1083-1094. DOI: 10.1109/TCSS.2019.2913460 \[[PDF](https://ieeexplore.ieee.org/document/8736490)\]
 
-18. Shuo Yu, Feng Xia, Huan Liu. Academic Team Formulation Based on Liebig’s Barrel: Discovery of Anti Cask Effect, IEEE Transactions on Computational Social Systems, Volume 6, October 2019, Pages 1083-1094. DOI: 10.1109/TCSS.2019.2913460 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+19. Shuo Yu, Jin Xu, Chen Zhang, Feng Xia, Zafer Almakhadmeh, Amr Tolba. Motifs in Big Networks: Methods and Applications. IEEE ACCESS. Volume 7, 2019, Pages 183322-183338. DOI: 10.1109/ACCESS.2019.2960044 \[[PDF](https://ieeexplore.ieee.org/document/8933458)\]
 
-    Paper: https://ieeexplore.ieee.org/document/8736490
+20. Shuo Yu, Yuanhu Liu, Jing Ren, Hayat Dino Bedru, Teshome Megersa Bekele, Liangtian Wan and Feng Xia. Mining Key Scholars via Collapsed Core and Truss, The 4th Cyber Science and Technology Congress (CyberSciTech), Fukuoka, Japan, August 5-8, 2019. \[[PDF](https://ieeexplore.ieee.org/document/8890469)\]
 
-19. Shuo Yu, Jin Xu, Chen Zhang, Feng Xia, Zafer Almakhadmeh, Amr Tolba. Motifs in Big Networks: Methods and Applications. IEEE ACCESS. Volume 7, 2019, Pages 183322-183338. DOI: 10.1109/ACCESS.2019.2960044 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+21. Shuo Yu, Hayat Dino Bedru, Ivan Lee, Feng Xia. Science of Scientific Team Science: A Survey, Computer Science Review, Volume 31, February 2019, Pages 72-83. DOI: 10.1016/j.cosrev.2018.12.001 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1574013718303381)\]
 
-    Paper: https://ieeexplore.ieee.org/document/8933458
+22. Yufan Feng, Shuo Yu, Kaiyuan Zhang, Xiangli Li, Zhaolong Ning. COMICS: a community property- based triangle motif clustering scheme. PeerJ Computer Science, Volume 5, March 2019, Pages e180. DOI 10.7717/peerj-cs.180 \[[PDF](https://peerj.com/articles/cs-180/)\]
 
-20. Shuo Yu, Yuanhu Liu, Jing Ren, Hayat Dino Bedru, Teshome Megersa Bekele, Liangtian Wan and Feng Xia. Mining Key Scholars via Collapsed Core and Truss, The 4th Cyber Science and Technology Congress (CyberSciTech), Fukuoka, Japan, August 5-8, 2019. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+23. Kaiyuan Zhang, Shuo Yu, Liangtian Wan, Jianxin Li and Feng Xia. Predictive Representation Learning in Motif-based Graph Networks, The 32nd Australasian Joint Conference on Artificial Intelligence (AI2019), Adelaide, Australia, Dec 2-5, 2019. \[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_15)\]
 
-    Paper: https://ieeexplore.ieee.org/document/8890469
+24. BoXu,YuLiu,ShuoYu*,LeiWang,JieDong,HongfeiLin,ZhihaoYang,JianWangandFengXia.A Network Embedding Model for Pathogenic Genes Prediction by Multi-path Random Walking on Heterogeneous Network. BMC Medical Genomics, Volume 12, December 2019, Pages 1-12. DOI:10.1186/s12920-019-0627-z \[[PDF](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-019-0627-z)\]
 
-21. Shuo Yu, Hayat Dino Bedru, Ivan Lee, Feng Xia. Science of Scientific Team Science: A Survey, Computer Science Review, Volume 31, February 2019, Pages 72-83. DOI: 10.1016/j.cosrev.2018.12.001 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+25. Feng Xia, Haoran Wei, Shuo Yu, Da Zhang, Bo Xu. A Survey of Measures for Network Motifs, IEEE ACCESS, Volume 4, May 2019. DOI:10.1109/ACCESS.2019.2926752 \[[PDF](https://ieeexplore.ieee.org/document/8755292)\]
 
-    Paper: https://www.sciencedirect.com/science/article/abs/pii/S1574013718303381
+26. Xiangjie Kong, Yajie Shi, Shuo Yu, Jiaying Liu, Feng Xia. Academic Social Networks: Modeling, Analysis, Mining and Applications, Journal of Network and Computer Applications, Volume 132, April 2019, Pages 86-103. DOI: 10.1016/j.jnca.2019.01.029 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1084804519300438)\]
 
-22. Yufan Feng, Shuo Yu, Kaiyuan Zhang, Xiangli Li, Zhaolong Ning. COMICS: a community property- based triangle motif clustering scheme. PeerJ Computer Science, Volume 5, March 2019, Pages e180. DOI 10.7717/peerj-cs.180 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+27. Xiangjie Kong, Lei Liu, Shuo Yu, Andong Yang, Xiaomei Bai, Bo Xu. Skill ranking of researchers via hypergraph. PeerJ Computer Science, Volume 5, March 2019, Pages e182. DOI 10.7717/peerj-cs.182 \[[PDF](https://peerj.com/articles/cs-182/)\]
 
-    Paper: https://peerj.com/articles/cs-180/
+28. Jing Ren, Lei Wang, Kailai Wang, Shuo Yu, Mingliang Hou, Ivan Lee, Xiangjie Kong and Feng Xia. API: An Index for Quantifying a Scholar’s Academic Potential, IEEE ACCESS, Volume 7, 2019, Pages 178675-178684. DOI: 10.1109/ACCESS.2019.2958649 \[[PDF](https://ieeexplore.ieee.org/document/8930550/)\]
 
-23. Kaiyuan Zhang, Shuo Yu, Liangtian Wan, Jianxin Li and Feng Xia. Predictive Representation Learning in Motif-based Graph Networks, The 32nd Australasian Joint Conference on Artificial Intelligence (AI2019), Adelaide, Australia, Dec 2-5, 2019. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+29. Xiangjie Kong, Mengyi Mao, Huizhen Jiang, Shuo Yu, Liangtian Wan. How does Collaboration Affect Researchers’ Positions in Co-authorship Networks? Journal of Informetrics, Volume 13, Issue 3, August 2019, Pages 887-900. DOI: 10.1016/j.joi.2019.07.005 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1751157718304218)\]
 
-    Paper: https://link.springer.com/chapter/10.1007/978-3-030-35288-2_15
+30. Wei Wang, Bo Xu, Jiaying Liu, Zixin Cui, Shuo Yu, Xiangjie Kong, Feng Xia. CSTeller: forecasting scientific collaboration sustainability based on extreme gradient boosting. World Wide Web, 2019. DOI: 10.1007/s11280-019-00703-y \[[PDF](https://link.springer.com/article/10.1007/s11280-019-00703-y)\]
 
-24. BoXu,YuLiu,ShuoYu*,LeiWang,JieDong,HongfeiLin,ZhihaoYang,JianWangandFengXia.A Network Embedding Model for Pathogenic Genes Prediction by Multi-path Random Walking on Heterogeneous Network. BMC Medical Genomics, Volume 12, December 2019, Pages 1-12. DOI:10.1186/s12920-019-0627-z \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+31. Shuo Yu, Jiaying Liu, Zhuo Yang, Zhen Chen, Huizhen Jiang, Amr Tolba, Feng Xia. PAVE: Personalized Academic Venue recommendation Exploiting co-publication networks. Journal of Network and Computer Applications, Volume 104, 15 February 2018, Pages 38-47. DOI: 10.1016/j.jnca.2017.12.004 \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1084804517304009)\]
 
-    Paper: https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-019-0627-z
+32. Bo Xu, Yu Liu, Shuo Yu, Lei Wang, Lei Liu, Hongfei Lin, Zhihao Yang, Jian Wang, and Feng Xia. Mul- tipath2vec: Predicting Pathogenic Genes via Heterogeneous Network Embedding, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 3-6 December 2018, Madrid, Spain \[[PDF](https://www.computer.org/csdl/proceedings-article/bibm/2018/08621103/17D45WHONk3)\]
 
-25. Feng Xia, Haoran Wei, Shuo Yu, Da Zhang, Bo Xu. A Survey of Measures for Network Motifs, IEEE ACCESS, Volume 4, May 2019. DOI:10.1109/ACCESS.2019.2926752 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+33. Shuo Yu, Feng Xia, Kaiyuan Zhang, Zhaolong Ning, Jiaofei Zhong and Chengfei Liu. Team Recognition in Big Scholarly Data: Exploring Collaboration Intensity, The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6-10, 2017. (Best Paper Award) \[[PDF](https://ieeexplore.ieee.org/abstract/document/8328499)\]
 
-    Paper: https://ieeexplore.ieee.org/document/8755292
+34. Wei Wang, Shuo Yu, Teshome Megersa Bekele, Xiangjie Kong, Feng Xia. Scientific collaboration patterns vary with scholars’ academic ages. Scientometrics, Vol. 112, No. 1, pp: 329-343, 2017. DOI: 10.1007/s11192-017-2388-9. \[[PDF](https://link.springer.com/article/10.1007/s11192-017-2388-9)\]
 
-26. Xiangjie Kong, Yajie Shi, Shuo Yu, Jiaying Liu, Feng Xia. Academic Social Networks: Modeling, Analysis, Mining and Applications, Journal of Network and Computer Applications, Volume 132, April 2019, Pages 86-103. DOI: 10.1016/j.jnca.2019.01.029 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+35. Li Liu, Shuo Yu, Xiang Wei, Zhaolong Ning. An improved Apriori–based algorithm for friends recommendation in microblog. International Journal of Communication Systems, Volume 31, November 2017, Pages e3453. DOI: 10.1002/dac.3453 \[[PDF](https://onlinelibrary.wiley.com/doi/10.1002/dac.3453)\]
 
-    Paper: https://www.sciencedirect.com/science/article/abs/pii/S1084804519300438
+36. Lu Li, Wei Wang, Shuo Yu, Liangtian Wan, Zhenzhen Xu, Xiangjie Kong. A Modified Node2vec Method for Disappearing Link Prediction, The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6-10, 2017. \[[PDF](https://www.computer.org/csdl/proceedings-article/dasc-picom-datacom-cyberscitech/2017/08328541/17D45WrVg27)\]
 
-27. Xiangjie Kong, Lei Liu, Shuo Yu, Andong Yang, Xiaomei Bai, Bo Xu. Skill ranking of researchers via hypergraph. PeerJ Computer Science, Volume 5, March 2019, Pages e182. DOI 10.7717/peerj-cs.182 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+37. Wei Wang, Zixin Cui, Tong Gao, Shuo Yu, Xiangjie Kong, Feng Xia. Is Scientific Collaboration Sustainability Predictable? The 26th International World Wide Web Conference (WWW), Poster Track, Perth, Australia, 3-7 April 2017. \[[PDF](https://dl.acm.org/doi/abs/10.1145/3041021.3054230)\]
 
-    Paper: https://peerj.com/articles/cs-182/
+38. Wei Wang, Jiaying Liu, Shuo Yu, Chenxin Zhang, Zhenzhen Xu, Feng Xia. Mining advisor-advisee relation- ships in scholarly big data: A deep learning approach, ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2910896.2925435)\]
 
-28. Jing Ren, Lei Wang, Kailai Wang, Shuo Yu, Mingliang Hou, Ivan Lee, Xiangjie Kong and Feng Xia. API: An Index for Quantifying a Scholar’s Academic Potential, IEEE ACCESS, Volume 7, 2019, Pages 178675-178684. DOI: 10.1109/ACCESS.2019.2958649 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+39. Xiaoyan Su, Wei Wang, Shuo Yu, Chenxin Zhang, Teshome Megersa Bekele, Feng Xia. Can academic conferences promote research collaboration? ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2910896.2925446)\]
 
-    Paper: https://ieeexplore.ieee.org/document/8930550/
+40. Jun Zhang, Feng Xia, Wei Wang, Xiaomei Bai, Shuo Yu, Teshome Megersa Bekele, Zhong Peng. CocaRank: A Collaboration Caliber-based Method for Finding Academic Rising Stars, The 25th International World Wide Web Conference (WWW), Companion Volume, Montreal, Canada, April 11-15, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2872518.2890524)\]
 
-29. Xiangjie Kong, Mengyi Mao, Huizhen Jiang, Shuo Yu, Liangtian Wan. How does Collaboration Affect Researchers’ Positions in Co-authorship Networks? Journal of Informetrics, Volume 13, Issue 3, August 2019, Pages 887-900. DOI: 10.1016/j.joi.2019.07.005 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
+41. Jun Zhang, Zhaolong Ning, Xiaomei Bai, Wei Wang, Shuo Yu, Feng Xia. Who are the Rising Stars in Academia? ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2910896.2925436)\]
 
-    Paper: https://www.sciencedirect.com/science/article/abs/pii/S1751157718304218
-
-30. Wei Wang, Bo Xu, Jiaying Liu, Zixin Cui, Shuo Yu, Xiangjie Kong, Feng Xia. CSTeller: forecasting scientific collaboration sustainability based on extreme gradient boosting. World Wide Web, 2019. DOI: 10.1007/s11280-019-00703-y \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://link.springer.com/article/10.1007/s11280-019-00703-y
-
-31. Shuo Yu, Jiaying Liu, Zhuo Yang, Zhen Chen, Huizhen Jiang, Amr Tolba, Feng Xia. PAVE: Personalized Academic Venue recommendation Exploiting co-publication networks. Journal of Network and Computer Applications, Volume 104, 15 February 2018, Pages 38-47. DOI: 10.1016/j.jnca.2017.12.004 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://www.sciencedirect.com/science/article/abs/pii/S1084804517304009
-
-32. Bo Xu, Yu Liu, Shuo Yu, Lei Wang, Lei Liu, Hongfei Lin, Zhihao Yang, Jian Wang, and Feng Xia. Mul- tipath2vec: Predicting Pathogenic Genes via Heterogeneous Network Embedding, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 3-6 December 2018, Madrid, Spain \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://www.computer.org/csdl/proceedings-article/bibm/2018/08621103/17D45WHONk3
-
-33. Shuo Yu, Feng Xia, Kaiyuan Zhang, Zhaolong Ning, Jiaofei Zhong and Chengfei Liu. Team Recognition in Big Scholarly Data: Exploring Collaboration Intensity, The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6-10, 2017. (Best Paper Award) \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://ieeexplore.ieee.org/abstract/document/8328499
-
-34. Wei Wang, Shuo Yu, Teshome Megersa Bekele, Xiangjie Kong, Feng Xia. Scientific collaboration patterns vary with scholars’ academic ages. Scientometrics, Vol. 112, No. 1, pp: 329-343, 2017. DOI: 10.1007/s11192-017-2388-9. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://link.springer.com/article/10.1007/s11192-017-2388-9
-
-35. Li Liu, Shuo Yu, Xiang Wei, Zhaolong Ning. An improved Apriori–based algorithm for friends recommendation in microblog. International Journal of Communication Systems, Volume 31, November 2017, Pages e3453. DOI: 10.1002/dac.3453 \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://onlinelibrary.wiley.com/doi/10.1002/dac.3453
-
-36. Lu Li, Wei Wang, Shuo Yu, Liangtian Wan, Zhenzhen Xu, Xiangjie Kong. A Modified Node2vec Method for Disappearing Link Prediction, The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6-10, 2017. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://www.computer.org/csdl/proceedings-article/dasc-picom-datacom-cyberscitech/2017/08328541/17D45WrVg27
-
-37. Wei Wang, Zixin Cui, Tong Gao, Shuo Yu, Xiangjie Kong, Feng Xia. Is Scientific Collaboration Sustainability Predictable? The 26th International World Wide Web Conference (WWW), Poster Track, Perth, Australia, 3-7 April 2017. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://dl.acm.org/doi/abs/10.1145/3041021.3054230
-
-38. Wei Wang, Jiaying Liu, Shuo Yu, Chenxin Zhang, Zhenzhen Xu, Feng Xia. Mining advisor-advisee relation- ships in scholarly big data: A deep learning approach, ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://dl.acm.org/doi/10.1145/2910896.2925435
-
-39. Xiaoyan Su, Wei Wang, Shuo Yu, Chenxin Zhang, Teshome Megersa Bekele, Feng Xia. Can academic conferences promote research collaboration? ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://dl.acm.org/doi/10.1145/2910896.2925446
-
-40. Jun Zhang, Feng Xia, Wei Wang, Xiaomei Bai, Shuo Yu, Teshome Megersa Bekele, Zhong Peng. CocaRank: A Collaboration Caliber-based Method for Finding Academic Rising Stars, The 25th International World Wide Web Conference (WWW), Companion Volume, Montreal, Canada, April 11-15, 2016. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://dl.acm.org/doi/10.1145/2872518.2890524
-
-41. Jun Zhang, Zhaolong Ning, Xiaomei Bai, Wei Wang, Shuo Yu, Feng Xia. Who are the Rising Stars in Academia? ACM/IEEE Joint Conference on Digital Libraries (JCDL), Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://dl.acm.org/doi/10.1145/2910896.2925436
-
-42. Haifeng Liu, Zhuo Yang, Ivan Lee, Zhenzhen Xu, Shuo Yu, Feng Xia. CAR: Incorporating Filtered Citation Relations for Scientific Article Recommendation. The 8th IEEE International Conference on Social Computing and Networking (SocialCom), Chengdu, China. December 19-21, 2015. \[[PDF](https://www.computer.org/csdl/proceedings-article/icdmw/2021/242700a935/1AjSUuriOMU)\]
-
-    Paper: https://www.computer.org/csdl/proceedings-article/smartcity/2015/1893a513/12OmNwGqBpN
+42. Haifeng Liu, Zhuo Yang, Ivan Lee, Zhenzhen Xu, Shuo Yu, Feng Xia. CAR: Incorporating Filtered Citation Relations for Scientific Article Recommendation. The 8th IEEE International Conference on Social Computing and Networking (SocialCom), Chengdu, China. December 19-21, 2015. \[[PDF](https://www.computer.org/csdl/proceedings-article/smartcity/2015/1893a513/12OmNwGqBpN)\]
