@@ -22,8 +22,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 <a href='https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>
 
-[comment]: <> "My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;."
-
 
 # 🔥 News
 
