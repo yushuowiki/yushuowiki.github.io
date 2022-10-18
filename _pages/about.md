@@ -219,4 +219,9 @@ Codes are available on https://github.com/yushuowiki.
 
 42. Haifeng Liu, Zhuo Yang, Ivan Lee, Zhenzhen Xu, **Shuo Yu**, Feng Xia. CAR: Incorporating Filtered Citation Relations for Scientific Article Recommendation. The 8th IEEE International Conference on Social Computing and Networking (SocialCom), Chengdu, China. December 19-21, 2015. \[[PDF](https://www.computer.org/csdl/proceedings-article/smartcity/2015/1893a513/12OmNwGqBpN)\]
 
-43. 
+43. Zhikui Chen, Yin Peng, **Shuo Yu**, Chen Cao, and Feng Xia. Subgraph Adaptive Structure-Aware Graph Contrastive Learning. *Mathematics*, 2022, 10 (17), 3047. DOI: 10.3390/math10173047 \[[PDF](https://www.mdpi.com/2227-7390/10/17/3047/pdf?version=1661344960)\]
+
+44. Ke Sun, **Shuo Yu**\*, Ciyuan Peng,Yueru Wang,Osama Alfarraj,Amr Tolba, Feng Xia. Relational Structure-Aware Knowledge Graph Representation in Complex Space. *Mathematics*, 2022, 10(11), 1930. DOI: 10.3390/math10111930 \[[PDF](https://www.mdpi.com/2227-7390/10/11/1930/pdf?version=1654585081)\]
+
+45.  Qi Lin, **Shuo Yu**, Ke Sun, Wenhong Zhao, Osama Alfarraj, Amr Tolba, and Feng Xia. Robust Graph Neural Networks via Ensemble Learning. *Mathematics*, 2022, 10(8), 1300. DOI: 10.3390/math10081300 \[[PDF](https://www.mdpi.com/2227-7390/10/8/1300/pdf?version=1649917908)\]
+
