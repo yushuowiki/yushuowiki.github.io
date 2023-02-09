@@ -34,7 +34,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       Shenyang University of Technology
     </div>
-  	<div class="right" style="box-sizing: border-box;">
+  	<div class="right" style="box-sizing: border-box;text-align: right">
       B.Sc. (School of Science), 2007-2011
     </div>
   </li>
@@ -42,7 +42,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       Shenyang University of Technology
     </div>
-  	<div class="right" style="box-sizing: border-box;">
+  	<div class="right" style="box-sizing: border-box;text-align: right">
       M.Sc. (School of Science), 2011-2014
     </div>
   </li>
@@ -50,7 +50,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       Dalian University of Technology
     </div>
-  	<div class="right" style="box-sizing: border-box;">
+  	<div class="right" style="box-sizing: border-box;text-align: right">
      Ph.D. (School of Software), 2015-2019
     </div>
   </li>
@@ -58,7 +58,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       Dalian University of Technology
     </div>
-  	<div class="right" style="box-sizing: border-box;">
+  	<div class="right" style="box-sizing: border-box;text-align: right">
       Postdoc (School of Computer Science and Technology), 2019-2022
     </div>
   </li>
@@ -66,7 +66,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       Dalian University of Technology
     </div>
-  	<div class="right" style="box-sizing: border-box;">
+  	<div class="right" style="box-sizing: border-box; text-align: right">
       Associate Professor (School of Computer Science and Technology), 2022-now
     </div>
   </li>
