@@ -100,64 +100,64 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 
 <ul style = "width:100%">
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       ACM Transactions on Knowledge Discovery (TKDD) 
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       Data Mining and Knowledge Discovery
     </div>
   </li>
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       IEEE Transactions on Emerging Topics in Computing (TETC) 
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       The Computer Journal
     </div>
   </li>
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       Journal of Computational Social Science
     </div>
   </li>
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       IEEE Transactions on Industrial Informatics (TII)
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       Scientometrics
     </div>
   </li>
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       IEEE Intelligent Systems
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       Mathematics 
     </div>
   </li>
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       IEEE Systems Journal
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       PloS One
     </div>
   </li>
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       Artificial Intelligence Review (IF **9.588**)
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       IEEE Access
     </div>
   </li>
-  <li style = "display:flex;justify-content:space-between;">
-    <div class="left" style="box-sizing: border-box;">
+  <li style = "display:flex;">
+    <div class="left" style="box-sizing: border-box;width: 50%">
       Journal of Network and Computer Applications 
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
