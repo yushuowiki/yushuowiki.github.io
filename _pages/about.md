@@ -150,7 +150,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
   </li>
   <li style = "display:flex;">
     <div class="left" style="box-sizing: border-box;width: 50%">
-      Artificial Intelligence Review (IF **9.588**)
+      Artificial Intelligence Review (IF 9.588)
     </div>
   	<div class="right" style="box-sizing: border-box;text-align: left">
       IEEE Access
