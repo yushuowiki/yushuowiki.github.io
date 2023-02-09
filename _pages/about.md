@@ -98,21 +98,102 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # Invited Reviewer
 
-- ACM Transactions on Knowledge Discovery (TKDD) 
-- IEEE Transactions on Emerging Topics in Computing (TETC)
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- IEEE Transactions on Industrial Informatics (TII)
-- IEEE Intelligent Systems
-- IEEE Systems Journal
-- Artificial Intelligence Review (IF **9.588**)
-- Journal of Network and Computer Applications 
-- Data Mining and Knowledge Discovery
-- The Computer Journal
-- Journal of Computational Social Science 
-- Scientometrics
-- Mathematics 
-- PloS One
-- IEEE Access
+
+<ul style = "width:100%">
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      ACM Transactions on Knowledge Discovery (TKDD) 
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+      Data Mining and Knowledge Discovery
+    </div>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      IEEE Transactions on Emerging Topics in Computing (TETC) 
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+      The Computer Journal
+    </div>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+      Journal of Computational Social Science
+    </div>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      IEEE Transactions on Industrial Informatics (TII)
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+      Scientometrics
+    </div>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      IEEE Intelligent Systems
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+      Mathematics 
+    </div>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      IEEE Systems Journal
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+      PloS One
+    </div>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      Artificial Intelligence Review (IF **9.588**)
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+      IEEE Access
+    </div>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      Journal of Network and Computer Applications 
+    </div>
+  	<div class="right" style="box-sizing: border-box;text-align: right">
+    </div>
+  </li>
+</ul>
+
+[//]: # (- ACM Transactions on Knowledge Discovery &#40;TKDD&#41; )
+
+[//]: # (- IEEE Transactions on Emerging Topics in Computing &#40;TETC&#41;)
+
+[//]: # (- IEEE Transactions on Neural Networks and Learning Systems &#40;TNNLS&#41;)
+
+[//]: # (- IEEE Transactions on Industrial Informatics &#40;TII&#41;)
+
+[//]: # (- IEEE Intelligent Systems)
+
+[//]: # (- IEEE Systems Journal)
+
+[//]: # (- Artificial Intelligence Review &#40;IF **9.588**&#41;)
+
+[//]: # (- Journal of Network and Computer Applications )
+
+[//]: # (- Data Mining and Knowledge Discovery)
+
+[//]: # (- The Computer Journal)
+
+[//]: # (- Journal of Computational Social Science )
+
+[//]: # (- Scientometrics)
+
+[//]: # (- Mathematics )
+
+[//]: # (- PloS One)
+
+[//]: # (- IEEE Access)
 
 # Fundings
 
