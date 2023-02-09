@@ -104,7 +104,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       ACM Transactions on Knowledge Discovery (TKDD) 
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
       Data Mining and Knowledge Discovery
     </div>
   </li>
@@ -112,7 +112,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       IEEE Transactions on Emerging Topics in Computing (TETC) 
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
       The Computer Journal
     </div>
   </li>
@@ -120,7 +120,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
       Journal of Computational Social Science
     </div>
   </li>
@@ -128,7 +128,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       IEEE Transactions on Industrial Informatics (TII)
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
       Scientometrics
     </div>
   </li>
@@ -136,7 +136,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       IEEE Intelligent Systems
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
       Mathematics 
     </div>
   </li>
@@ -144,7 +144,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       IEEE Systems Journal
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
       PloS One
     </div>
   </li>
@@ -152,7 +152,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       Artificial Intelligence Review (IF **9.588**)
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
       IEEE Access
     </div>
   </li>
@@ -160,7 +160,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     <div class="left" style="box-sizing: border-box;">
       Journal of Network and Computer Applications 
     </div>
-  	<div class="right" style="box-sizing: border-box;text-align: right">
+  	<div class="right" style="box-sizing: border-box;text-align: left">
     </div>
   </li>
 </ul>
