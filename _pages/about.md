@@ -93,6 +93,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # Academic Activities
 
+- TPC member, Program Committee of ICA3PP 2023 (The 23rd International Conference on Algorithms and Architectures for Parallel Processing) (ICA3PP)
+- TPC member, Program Committee of BDSC2023 (BDSC 2023: The 8th China National Conference on Big Data & Social Computing) (BDSC2023 )
 - Lead Editor, Mathematics Special Issues on Artificial Intelligence and Data Science
 - Program Chair, IEEE ICDM 2022 Workshop on Knowledge Graphs (KG2022)
 - Track Chair, The 37th ACM/SIGAPP Symposium on Applied Computing (ACM/SIGAPP SAC2022) (KG2021)
@@ -139,7 +141,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # Selected Publications
 
 1. **<u>Shuo Yu</u>**, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. "Quantum Graph Learning: Frontiers and Outlook." *arXiv preprint arXiv:2302.00892* (2023). \[[PDF](https://arxiv.org/abs/2302.00892)\] 
-2. **<u>Shuo Yu</u>**, Feng Xia, Shihao Li, Mingliang Hou, and Quan Z. Sheng. 2023. Spatio-Temporal Graph Learning for Epidemic Prediction. **ACM Transactions on Intelligent Systems and Technology**. Just Accepted (January 2023). DOI:10.1145/3579815  \[[PDF](https://doi.org/10.1145/3579815)]
+2. **<u>Shuo Yu</u>**, Feng Xia, Shihao Li, Mingliang Hou, and Quan Z. Sheng. 2023. Spatio-Temporal Graph Learning for Epidemic Prediction. **ACM Transactions on Intelligent Systems and Technology**. (Accepted January 2023). DOI:10.1145/3579815  \[[PDF](https://doi.org/10.1145/3579815)]
 3. **<u>Shuo Yu</u>**, , Feng Xia, Yueru Wang, Shihao Li, Falih Gozi Febrinanto, and Madhu Chetty, "PANDORA: Deep Graph Learning Based COVID-19 Infection Risk Level Forecasting," **IEEE Transactions on Computational Social Systems**, 2022,DOI: 10.1109/TCSS.2022.3229671.\[[PDF](https://ieeexplore.ieee.org/abstract/document/9999183)]
 4. **<u>Shuo Yu</u>**, Ciyuan Peng, Chengchuan Xu, Chen Zhang, and Feng Xia. "Web of Conferences: A Conference Knowledge Graph." In **Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)**, 2023 (Accepted).
 5. Nakema Y. Deonauth, Mingchu Li, **<u>Shuo Yu</u>**, Xiangtai Chen. An Upstream-Reciprocity-Based Strategy for Academic Social Networks Using Public Goods Game. **IEEE Transactions on Computational Social Systems**. Volume 8, Issue 6, December 2021, Pages 1417-1426. DOI: 10.1109/TCSS.2021.3085174 \[[PDF](https://ieeexplore.ieee.org/document/9570818)\]
