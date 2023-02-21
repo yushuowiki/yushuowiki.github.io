@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuo Yu"
-description              : ""
+description              : "School of Computer Science and Technology, Dalian University of Technology, Dalian 116024"
 repository               : "yushuowiki/yushuowiki.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,10 +24,10 @@ author:
   name             : "Shuo Yu"
   avatar           : "images/profile.png"
   bio              : "Associate Professor"
-  college          : "School of Computer Science and Technology"
-  university       : "Dalian University of Technology, Dalian"
+  college          : 
+  university       : 
   location         : "Liaoning, China"
-  postalcode       : "116024"
+  postalcode       : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl"
