@@ -19,14 +19,14 @@
       {% if site.description %}
         <li><div style="white-space: normal;">{{ site.description }}</div></li>
       {% endif %}
-      {% if site.college %}
-      <li><div style="white-space: normal;">{{ site.college }}</div></li>
+      {% if author.college %}
+      <li><div style="white-space: normal;">{{ author.college }}</div></li>
       {% endif %}
-      {% if site.university %}
-      <li><div style="white-space: normal;">{{ site.university }}</div></li>
+      {% if author.university %}
+      <li><div style="white-space: normal;">{{ author.university }}</div></li>
       {% endif %}
-      {% if site.postalcode %}
-      <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.postalcode }}</div></li>
+      {% if author.postalcode %}
+      <li><div style="white-space: normal; margin-bottom: 1em;">{{ author.postalcode }}</div></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
