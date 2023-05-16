@@ -26,6 +26,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # 🔥 News
 
 - 🎉 Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
+- 🎉 CALL FOR PAPERS for the Topical Issue “New frontiers in exploring the dynamics of community structure in online social networks”
 - 🎉 CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science (https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)
 - 🎉 CALL FOR PAPERS in ICDM Workshop on Knowledge Graphs ([KG2022](https://www.kgworkshop.org/2022/))
 
@@ -144,6 +145,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # Selected Publications
 
 1. **<u>Shuo Yu</u>**, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. "Quantum Graph Learning: Frontiers and Outlook." *arXiv preprint arXiv:2302.00892* (2023). \[[PDF](https://arxiv.org/abs/2302.00892)\] 
+2. Feng Ding, Naiwen Luo, **<u>Shuo Yu*</u>**, and Zhikui Chen, MEGA: Explaining Graph Neural Networks with Network Motifs, International Joint Conference on Neural Networks (IJCNN), 2023. (Accepted)
 2. **<u>Shuo Yu</u>**, Feng Xia, Shihao Li, Mingliang Hou, and Quan Z. Sheng. 2023. Spatio-Temporal Graph Learning for Epidemic Prediction. **ACM Transactions on Intelligent Systems and Technology**. (Accepted January 2023). DOI:10.1145/3579815  \[[PDF](https://doi.org/10.1145/3579815)]
 3. **<u>Shuo Yu</u>**, Feng Xia, Yueru Wang, Shihao Li, Falih Gozi Febrinanto, and Madhu Chetty, "PANDORA: Deep Graph Learning Based COVID-19 Infection Risk Level Forecasting," **IEEE Transactions on Computational Social Systems**, 2022,DOI: 10.1109/TCSS.2022.3229671.\[[PDF](https://ieeexplore.ieee.org/abstract/document/9999183)]
 4. **<u>Shuo Yu</u>**, Ciyuan Peng, Chengchuan Xu, Chen Zhang, and Feng Xia. "Web of Conferences: A Conference Knowledge Graph." In **Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)**, 2023 (Accepted).
