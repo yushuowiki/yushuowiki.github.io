@@ -24,7 +24,8 @@ author:
   name             : "Shuo Yu"
   avatar           : "images/profile.png"
   bio              : "Associate Professor"
-  college          : "Assistant Dean"
+  bio2             : "Assistant Dean"
+  college          :
   university       : 
   location         : "Liaoning, China"
   postalcode       : 
