@@ -26,8 +26,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # 🔥 News
 
 - 🎉 Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
-- 🎉 CALL FOR PAPERS on The European Physical Journal B for the Topical Issue “New frontiers in exploring the dynamics of community structure in online social networks” (https://www.editorialmanager.com/epjb/ please make sure the right special issue is selected)
-- 🎉 CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science (https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)
+- 🎉 CALL FOR PAPERS on The European Physical Journal B for the Topical Issue “New frontiers in exploring the dynamics of community structure in online social networks” ([click to submit](https://www.editorialmanager.com/epjb/) please make sure the right special issue is selected)
+- 🎉 CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science ([click to submit](https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA))
 - 🎉 CALL FOR PAPERS in ICDM Workshop on Knowledge Graphs ([KG2022](https://www.kgworkshop.org/2022/))
 
 # Educations
