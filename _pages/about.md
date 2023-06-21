@@ -28,7 +28,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - 🎉 Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
 - 🎉 CALL FOR PAPERS on The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks” ([click to submit](https://www.editorialmanager.com/epjb/) please make sure the right special issue is selected)
 - 🎉 CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science ([click to submit](https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA))
-- 🎉 CALL FOR PAPERS in ICDM Workshop on Knowledge Graphs ([KG2022](https://www.kgworkshop.org/2022/))
 
 # Educations
 
@@ -80,10 +79,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # Research Interests
 
-- Network Science: Graph Learning; Graph Federated Learning
-- Data Science: Scholarly Big Data; Data Mining; Model Interpretability
-- Knowledge Science: Knowledge Representation; Knowledge Engineering; Rule Mining
-- Computational Social Science: Team Science; Social Network Analysis; Fake Review Detection
+- Data Science: Big Data, Data Mining, Domain-specific Data (e.g., Healthcare, Academia, Society), Anomaly Detection, Healthcare, Knowledge Graphs
+- Graph Learning: Responsible Graph Learning, Federated Graph Learning, Multi-modal Graph Learning, Physics-informed Graph Learning
 
 # Honors and Awards
 
@@ -94,12 +91,14 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # Academic Activities
 
+- TPC Member, The 24rd International Symposium on Theory, Algorithmic Foundations, andProtocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc)
+- PC Member,  The 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP2023)
 - Editorial Board Member, Humanities and Social Sciences Communications
 - PC Member, The 3rd International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)
 - TPC Member, The 2023 International Joint Conference on Neural Networks (IJCNN2023)
 - TPC Member, The 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP2023)
 - TPC Member, The 8th China National Conference on Big Data & Social Computing (BDSC2023)
-- Lead Editor, Mathematics Special Issues on Artificial Intelligence and Data Science
+- Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science
 - Program Chair, IEEE ICDM 2022 Workshop on Knowledge Graphs (KG2022)
 - Track Chair, The 37th ACM/SIGAPP Symposium on Applied Computing (ACM/SIGAPP SAC2022) (KG2021)
 - PC Member, IEEE ICDM 2021 Workshop on Intelligence-Augmented Anomaly Analytics (IAAA2021)
@@ -133,6 +132,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # Conference Talks
 
+- MEGA:Explaining Graph Neural Networks with Network Motifs. International Joint Conference on Neural Networks (IJCNN), 2023 
+- Deep Graph Learning: Data, Methods, and Applications. 
 - Graph Augmentation Learning. The 31st International World Wide Web Conference Workshop on Graph Learning, Virtual Conference, April 25-29, 2022
 - CRI:Measuring City Infection Risk amid COVID-19. IEEE International Conference on Computer Science and Data Engineering 2020 (IEEE CSDE 2020), Virtual Event, Australia, December 16-18, 2020 (**Best Paper Award**)
 - OFFER: A Motif Dimensional Framework for Network Representation Learning. The 29th ACM International Conference On Information And Knowledge Management (CIKM2020), Virtual Event, October 19-23, 2020
