@@ -92,7 +92,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # Academic Activities
 
-- <font face="Times New Roman">TPC Member, The 24rd International Symposium on Theory, Algorithmic Foundations, andProtocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc)</font>
+- <font face="Times New Roman">TPC Member, The 24rd International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc)</font> 
 - <font face="Times New Roman">PC Member,  The 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023)</font>
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications</font>
 - <font face="Times New Roman">PC Member, The 3rd International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)</font>
@@ -107,8 +107,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # Invited Reviewer
 
-- <font face="Times New Roman">ACM Transactions on Knowledge Discovery (TKDD) 
-- IEEE Transactions on Emerging Topics in Computing (TETC)</font>
+- <font face="Times New Roman">ACM Transactions on Knowledge Discovery (TKDD)</font> 
+- <font face="Times New Roman">IEEE Transactions on Emerging Topics in Computing (TETC)</font>
 - <font face="Times New Roman">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>
 - <font face="Times New Roman">IEEE Transactions on Industrial Informatics (TII)</font>
 - <font face="Times New Roman">IEEE Intelligent Systems</font>
@@ -129,7 +129,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Lead Principal Investigator, Advanced Science and Technology Innovation Program (No. CXY-ZKQN-2019-048), Formulation and Evolution of Academic Teams, China Association for Science and Technology.</font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 61872054)</font>
 - <font face="Times New Roman">Main Investigator, Fundamental Research Funds for the Central Universities (No. DUT19LAB23) </font>
-- Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
+-  <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
 
 # Conference Talks
 
