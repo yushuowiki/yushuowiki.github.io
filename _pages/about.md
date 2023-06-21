@@ -20,17 +20,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<font face="Times New Roman">
 Dr. Shuo Yu is currently an Associate Professor in School of Computer Science and Technology, Dalian University of Technology. She has published over 50 papers in ACM/IEEE conferences, journals, as well as magazines, and received several academic awards, including IEEE DataCom 2017 Best Paper Award, IEEE CSDE 2020 Best Paper Award, ACM/IEEE JCDL 2020 The Vannevar Bush Best Paper Honorable Mention, and CAAI BDSC2022 Rising Star. Dr. Yu received <a href='https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl'><strong><span id='total_cit'>970</span></strong></a> citations to her work. She has served as the Track Chair of Knowledge Graph Track on ACM/SIGAPP SAC 2022 (KG2021) and Program Chair of ICDM Workshop on Knowledge Graphs (KG2022), as well as PC member of many other international conferences. Her research interests include network science, data science, computational social science, and knowledge science. She is a lifelong member of CAAI. She is a Member of ACM and IEEE. She is also a member of IEEE Young Professionals, IEEE Computational Intelligence Society, IEEE Standards Association, and IEEE Women in Engineering.
-
+</font>
 
 # 🔥 News
 
-- 🎉 Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!
-- 🎉 CALL FOR PAPERS on The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks” ([click to submit](https://www.editorialmanager.com/epjb/) please make sure the right special issue is selected)
-- 🎉 CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science ([click to submit](https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA))
+- 🎉 <font face="Times New Roman">Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!</font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS on The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks” ([click to submit](https://www.editorialmanager.com/epjb/) please make sure the right special issue is selected)</font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science ([click to submit](https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA))</font>
 
 # Educations
-
+ <font face="Times New Roman">
 <ul style = "width:100%">
   <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
@@ -73,26 +74,26 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
     </div>
   </li>
 </ul> 
-
+</font>
 
 
 
 # Research Interests
 
-- Data Science: Big Data, Data Mining, Domain-specific Data (e.g., Healthcare, Academia, Society), Anomaly Detection, Healthcare, Knowledge Graphs
-- Graph Learning: Responsible Graph Learning, Federated Graph Learning, Multi-modal Graph Learning, Physics-informed Graph Learning
+- <font face="Times New Roman">Data Science: Big Data, Data Mining, Domain-specific Data (e.g., Healthcare, Academia, Society), Anomaly Detection, Healthcare, Knowledge Graphs</font>
+- <font face="Times New Roman">Graph Learning: Responsible Graph Learning, Federated Graph Learning, Multi-modal Graph Learning, Physics-informed Graph Learning</font>
 
 # Honors and Awards
 
-- Rising Star, China National Conference on Big Data & Social Computing (BDSC2022)
-- The Vannevar Bush Best Paper Honorable Mention,The ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)
-- Best Paper Award, IEEE International Conference on Computer Science and Data Engineering (IEEE CSDE2020)
-- Best Paper Award, IEEE International Conference on Big Data Intelligence and Computing (IEEE DataCom2017)
+- <font face="Times New Roman">Rising Star, China National Conference on Big Data & Social Computing (BDSC2022)</font>
+- <font face="Times New Roman">The Vannevar Bush Best Paper Honorable Mention,The ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)</font>
+- <font face="Times New Roman">Best Paper Award, IEEE International Conference on Computer Science and Data Engineering (IEEE CSDE2020)</font>
+- <font face="Times New Roman">Best Paper Award, IEEE International Conference on Big Data Intelligence and Computing (IEEE DataCom2017)</font>
 
 # Academic Activities
 
-- TPC Member, The 24rd International Symposium on Theory, Algorithmic Foundations, andProtocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc)
-- PC Member,  The 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP2023)
+- <font face="Times New Roman">TPC Member, The 24rd International Symposium on Theory, Algorithmic Foundations, andProtocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc)
+- PC Member,  The 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023)
 - Editorial Board Member, Humanities and Social Sciences Communications
 - PC Member, The 3rd International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)
 - TPC Member, The 2023 International Joint Conference on Neural Networks (IJCNN2023)
@@ -102,11 +103,11 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - Program Chair, IEEE ICDM 2022 Workshop on Knowledge Graphs (KG2022)
 - Track Chair, The 37th ACM/SIGAPP Symposium on Applied Computing (ACM/SIGAPP SAC2022) (KG2021)
 - PC Member, IEEE ICDM 2021 Workshop on Intelligence-Augmented Anomaly Analytics (IAAA2021)
-- PC Member, The 2021 IEEE/WIC/ACM International Joint Conferences on Web Intelligence and Intelligent Agent Technology Special Track on Social Computing
+- PC Member, The 2021 IEEE/WIC/ACM International Joint Conferences on Web Intelligence and Intelligent Agent Technology Special Track on Social Computing</font>
 
 # Invited Reviewer
 
-- ACM Transactions on Knowledge Discovery (TKDD) 
+- <font face="Times New Roman">ACM Transactions on Knowledge Discovery (TKDD) 
 - IEEE Transactions on Emerging Topics in Computing (TETC)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Industrial Informatics (TII)
@@ -120,19 +121,19 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - Scientometrics
 - Mathematics 
 - PloS One
-- IEEE Access
+- IEEE Access</font>
 
 # Fundings
 
-- Lead Principal Investigator, National Science Foundation Program of China (No. 62102060), Deep Graph Learning Based Group Anomaly Detection in Social Networks.
+- <font face="Times New Roman">Lead Principal Investigator, National Science Foundation Program of China (No. 62102060), Deep Graph Learning Based Group Anomaly Detection in Social Networks.
 - Lead Principal Investigator, Advanced Science and Technology Innovation Program (No. CXY-ZKQN-2019-048), Formulation and Evolution of Academic Teams, China Association for Science and Technology.
 - Main Investigator, National Science Foundation Program of China (No. 61872054)
 - Main Investigator, Fundamental Research Funds for the Central Universities (No. DUT19LAB23) 
-- Main Investigator, National Science Foundation Program of China (No. 71774020)
+- Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
 
 # Conference Talks
 
-- MEGA:Explaining Graph Neural Networks with Network Motifs. International Joint Conference on Neural Networks (IJCNN), 2023 
+- <font face="Times New Roman">MEGA:Explaining Graph Neural Networks with Network Motifs. International Joint Conference on Neural Networks (IJCNN), 2023 
 - Deep Graph Learning: Data, Methods, and Applications. 
 - Graph Augmentation Learning. The 31st International World Wide Web Conference Workshop on Graph Learning, Virtual Conference, April 25-29, 2022
 - CRI:Measuring City Infection Risk amid COVID-19. IEEE International Conference on Computer Science and Data Engineering 2020 (IEEE CSDE 2020), Virtual Event, Australia, December 16-18, 2020 (**Best Paper Award**)
@@ -141,11 +142,11 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - Mining Key Scholars via Collapsed Core and Truss. The 4th IEEE International Conference on Cyber Science and Technology Congress, Fukuoka, Japan, August 7, 2019
 - Team Recognition in Big Scholarly Data: Exploring Collaboration Intensity. The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6, 2017 (**Best Paper Award**)
 - A Modified Node2vec Method for Disappearing Link Prediction. The 3rd IEEE International Conference on Big Data Intelligence and Computing (DataCom), Orlando, Florida, USA, November 6, 2017
-- CAR: Incorporating Filtered Citation Relations for Scientific Article Recommendation. The 8th IEEE International Conference on Social Computing and Networking (SocialCom), Chengdu, China, December 20, 2015
+- CAR: Incorporating Filtered Citation Relations for Scientific Article Recommendation. The 8th IEEE International Conference on Social Computing and Networking (SocialCom), Chengdu, China, December 20, 2015</font>
 
 # Selected Publications
 
-1. **<u>Shuo Yu</u>**, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. "Quantum Graph Learning: Frontiers and Outlook." *arXiv preprint arXiv:2302.00892* (2023). \[[PDF](https://arxiv.org/abs/2302.00892)\] 
+<font face="Times New Roman">1. **<u>Shuo Yu</u>**, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. "Quantum Graph Learning: Frontiers and Outlook." *arXiv preprint arXiv:2302.00892* (2023). \[[PDF](https://arxiv.org/abs/2302.00892)\] 
 2. Feng Ding, Naiwen Luo, **<u>Shuo Yu*</u>**, and Zhikui Chen, MEGA: Explaining Graph Neural Networks with Network Motifs, International Joint Conference on Neural Networks (IJCNN), 2023. (Accepted)
 2. **<u>Shuo Yu</u>**, Feng Xia, Shihao Li, Mingliang Hou, and Quan Z. Sheng. 2023. Spatio-Temporal Graph Learning for Epidemic Prediction. **ACM Transactions on Intelligent Systems and Technology**. (Accepted January 2023). DOI:10.1145/3579815  \[[PDF](https://doi.org/10.1145/3579815)]
 3. **<u>Shuo Yu</u>**, Feng Xia, Yueru Wang, Shihao Li, Falih Gozi Febrinanto, and Madhu Chetty, "PANDORA: Deep Graph Learning Based COVID-19 Infection Risk Level Forecasting," **IEEE Transactions on Computational Social Systems**, 2022,DOI: 10.1109/TCSS.2022.3229671.\[[PDF](https://ieeexplore.ieee.org/abstract/document/9999183)]
@@ -204,4 +205,4 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 56. Jun Zhang, Feng Xia, Wei Wang, Xiaomei Bai, **<u>Shuo Yu</u>**, Teshome Megersa Bekele, Zhong Peng. CocaRank: A Collaboration Caliber-based Method for Finding Academic Rising Stars, **The 25th International World Wide Web Conference (WWW)**, Companion Volume, Montreal, Canada, April 11-15, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2872518.2890524)\]
 57. Jun Zhang, Zhaolong Ning, Xiaomei Bai, Wei Wang, **<u>Shuo Yu</u>**, Feng Xia. Who are the Rising Stars in Academia? **ACM/IEEE Joint Conference on Digital Libraries (JCDL)**, Newark, NJ, USA, June 19-23, 2016. \[[PDF](https://dl.acm.org/doi/10.1145/2910896.2925436)\]
 58. Yan Hu, Jun Zhang, Xiaomei Bai, **<u>Shuo Yu</u>**, Zhuo Yang. Influence analysis of Github repositories. SpringerPlus, Volume 5, Number 1, 2016, Pages 1–19. \[[PDF](https://springerplus.springeropen.com/articles/10.1186/s40064-016-2897-7)\]
-59. Haifeng Liu, Zhuo Yang, Ivan Lee, Zhenzhen Xu, **<u>Shuo Yu</u>**, Feng Xia. CAR: Incorporating Filtered Citation Relations for Scientific Article Recommendation. The 8th IEEE International Conference on Social Computing and Networking (SocialCom), Chengdu, China. December 19-21, 2015. \[[PDF](https://www.computer.org/csdl/proceedings-article/smartcity/2015/1893a513/12OmNwGqBpN)\]
+59. Haifeng Liu, Zhuo Yang, Ivan Lee, Zhenzhen Xu, **<u>Shuo Yu</u>**, Feng Xia. CAR: Incorporating Filtered Citation Relations for Scientific Article Recommendation. The 8th IEEE International Conference on Social Computing and Networking (SocialCom), Chengdu, China. December 19-21, 2015. \[[PDF](https://www.computer.org/csdl/proceedings-article/smartcity/2015/1893a513/12OmNwGqBpN)\]</font>
