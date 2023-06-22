@@ -2,14 +2,14 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<div itemscope itemtype="http://schema.org/Person" class="profile_box">
+<div itemscope itemtype="http://schema.org/Person" class="profile_box" style="font-family : Times New Roman;">
 
   <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name" style="font-family : Times New Roman;">{{ author.name }}</h3>
+  <div class="author__content" style="font-family : Times New Roman;">
+    <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio" style="margin-bottom: 0">{{ author.bio }}</p>{% endif %}
     {% if author.bio2 %}<p class="author__bio" style="margin-top: 5px; margin-bottom: 20px">{{ author.bio2 }}</p>{% endif %}
   </div>
