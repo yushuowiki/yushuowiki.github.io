@@ -9,16 +9,16 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name" style="font-family : \"Times New Roman\";">{{ author.name }}</h3>
+    <h3 class="author__name" style="font-family : Times New Roman;">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio" style="margin-bottom: 0">{{ author.bio }}</p>{% endif %}
     {% if author.bio2 %}<p class="author__bio" style="margin-top: 5px; margin-bottom: 20px">{{ author.bio2 }}</p>{% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
+  <div class="author__urls-wrapper" style="font-family : Times New Roman;">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul font-family="Times New Roman" class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal;">{{ site.description }}</div></li>
+        <li><div style="white-space: normal; font-family : Times New Roman;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.college %}
       <li><div style="white-space: normal;">{{ author.college }}</div></li>
