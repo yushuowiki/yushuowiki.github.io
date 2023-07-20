@@ -92,8 +92,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Best Paper Award, IEEE International Conference on Computer Science and Data Engineering (IEEE CSDE2020)</font>
 - <font face="Times New Roman">Best Paper Award, IEEE International Conference on Big Data Intelligence and Computing (IEEE DataCom2017)</font>
 
-# Special Academic Activities
-- <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications (Nature Sub-journal)</font>
+# Professional Affiliations
+- <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications (Nature)</font>
 
 # Academic Activities
 
