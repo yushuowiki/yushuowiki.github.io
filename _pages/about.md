@@ -27,9 +27,9 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # 🔥 News
 
 - 🎉 <font face="Times New Roman">Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!</font>
-- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Frontiers in Big Data for the special issue “Knowledge Graphs and Big Data Analytics” </font>([click to submit](https://www.frontiersin.org/research-topics/55177/knowledge-graphs-and-big-data-analytics)</font>
-- 🎉 <font face="Times New Roman">CALL FOR PAPERS in The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks” </font>([click to submit](https://www.editorialmanager.com/epjb/) <font face="Times New Roman">Please make sure the right special issue is selected.)</font>
-- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science </font>([click to submit](https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA))
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Frontiers in Big Data for the special issue “Knowledge Graphs and Big Data Analytics” <a href="https://www.frontiersin.org/research-topics/55177/knowledge-graphs-and-big-data-analytics">[click to submit]</a></font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks”  (Please make sure the right special issue is selected.) <a href="https://www.editorialmanager.com/epjb/">[click to submit]</a></font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science <a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">[click to submit]</a></font>
 
 # Experiences
  <font face="Times New Roman">
@@ -93,18 +93,18 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Best Paper Award, IEEE International Conference on Big Data Intelligence and Computing (IEEE DataCom2017)</font>
 
 # Professional Affiliations
-- <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications (Nature)</font>
+- <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications <a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
+- <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science</font>
+- <font face="Times New Roman">Lead Guest Editor, Frontiers in Big Data Special Issues on Knowledge Graph and Data Analytics</font>
 
 # Academic Activities
 
 - <font face="Times New Roman">TPC Member, The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc 2023)</font> 
 - <font face="Times New Roman">PC Member,  The 23th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023)</font>
-- <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications</font>
 - <font face="Times New Roman">PC Member, The 3th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)</font>
 - <font face="Times New Roman">TPC Member, The 2023 International Joint Conference on Neural Networks (IJCNN2023)</font>
 - <font face="Times New Roman">TPC Member, The 23th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP2023)</font>
 - <font face="Times New Roman">TPC Member, The 8th China National Conference on Big Data & Social Computing (BDSC2023)</font>
-- <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science</font>
 - <font face="Times New Roman">Program Chair, IEEE ICDM 2022 Workshop on Knowledge Graphs (KG2022)</font>
 - <font face="Times New Roman">Track Chair, The 37th ACM/SIGAPP Symposium on Applied Computing (ACM/SIGAPP SAC2022) (KG2021)</font>
 - <font face="Times New Roman">PC Member, IEEE ICDM 2021 Workshop on Intelligence-Augmented Anomaly Analytics (IAAA2021)</font>
@@ -118,21 +118,23 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">IEEE Transactions on Industrial Informatics (TII)</font>
 - <font face="Times New Roman">IEEE Intelligent Systems</font>
 - <font face="Times New Roman">IEEE Systems Journal</font>
-- <font face="Times New Roman">Artificial Intelligence Review (IF **9.588**)</font>
+- <font face="Times New Roman">Artificial Intelligence Review (IF <strong>9.588</strong>)</font>
 - <font face="Times New Roman">Journal of Network and Computer Applications </font>
 - <font face="Times New Roman">Data Mining and Knowledge Discovery</font>
 - <font face="Times New Roman">The Computer Journal</font>
 - <font face="Times New Roman">Journal of Computational Social Science </font>
 - <font face="Times New Roman">Scientometrics</font>
-- <font face="Times New Roman">Mathematics </font>
+- <font face="Times New Roman">Mathematics</font>
 
 # Fundings
 
 - <font face="Times New Roman">Lead Principal Investigator, National Science Foundation Program of China (No. 62102060), Deep Graph Learning Based Group Anomaly Detection in Social Networks.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Advanced Science and Technology Innovation Program (No. CXY-ZKQN-2019-048), Formulation and Evolution of Academic Teams, China Association for Science and Technology.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Diagnosis Assistant Platform of Nervous System Diseases Based on Multi-channel Attentional EEG Network.</font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 61872054)</font>
 - <font face="Times New Roman">Main Investigator, Fundamental Research Funds for the Central Universities (No. DUT19LAB23) </font>
--  <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
+- <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
+- <font face="Times New Roman">Main Investigator, Intelligent Diagnosis and Prevention Platform for Cardiovascular and Cerebrovascular Complications of Diabetes Based on Mass Spectrometry Data</font>
 
 # Conference Talks
 
@@ -150,13 +152,13 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # Selected Publications
 
 <ul style="list-style-type: circle;">
-  <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. "Quantum Graph Learning: Frontiers and Outlook." <i>arXiv preprint arXiv:2302.00892</i> (2023).  <a href="https://arxiv.org/abs/2302.00892">(PDF)</a></font></li>
+  <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. Quantum Graph Learning: Frontiers and Outlook. <i>arXiv preprint arXiv:2302.00892</i> (2023).  <a href="https://arxiv.org/abs/2302.00892">(PDF)</a></font></li>
   <li><font face="Times New Roman">Feng Ding, Naiwen Luo, <u><strong>Shuo Yu*</strong></u>, and Zhikui Chen, MEGA: Explaining Graph Neural Networks with Network Motifs, International Joint Conference on Neural Networks (IJCNN), 2023. (Accepted)</font></li>
   <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Feng Xia, Shihao Li, Mingliang Hou, and Quan Z. Sheng. 2023. Spatio-Temporal Graph Learning for Epidemic Prediction. <strong>ACM Transactions on Intelligent Systems and Technology</strong>. (Accepted January 2023). DOI:10.1145/3579815 <a href="https://doi.org/10.1145/3579815">(PDF)</a></font></li>
-  <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Feng Xia, Yueru Wang, Shihao Li, Falih Gozi Febrinanto, and Madhu Chetty, "PANDORA: Deep Graph Learning Based COVID-19 Infection Risk Level Forecasting," <strong>IEEE Transactions on Computational Social Systems</strong>, 2022,DOI: 10.1109/TCSS.2022.3229671. <a href="https://ieeexplore.ieee.org/abstract/document/9999183">(PDF)</a></font></li>
-  <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Ciyuan Peng, Chengchuan Xu, Chen Zhang, and Feng Xia. "Web of Conferences: A Conference Knowledge Graph." In <strong>Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)</strong>, 2023 (Accepted).</font></li>
+  <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Feng Xia, Yueru Wang, Shihao Li, Falih Gozi Febrinanto, and Madhu Chetty, PANDORA: Deep Graph Learning Based COVID-19 Infection Risk Level Forecasting, <strong>IEEE Transactions on Computational Social Systems</strong>, 2022,DOI: 10.1109/TCSS.2022.3229671. <a href="https://ieeexplore.ieee.org/abstract/document/9999183">(PDF)</a></font></li>
+  <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Ciyuan Peng, Chengchuan Xu, Chen Zhang, and Feng Xia. Web of Conferences: A Conference Knowledge Graph. In <strong>Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)</strong>, 2023 (Accepted).</font></li>
   <li><font face="Times New Roman">Xu Yuan, Ying Yang, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Lili Cong. Mining Implicit Relations Among Image Channels for Few-Shot Semantic Segmentation, The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2022.</font></li>
-  <li><font face="Times New Roman"> Nakema Y. Deonauth, Mingchu Li, <u><strong>Shuo Yu</strong></u>,, Xiangtai Chen. An Upstream-Reciprocity-Based Strategy for Academic Social Networks Using Public Goods Game. <strong>IEEE Transactions on Computational Social Systems</strong>. Volume 8, Issue 6, December 2021, Pages 1417-1426. DOI: 10.1109/TCSS.2021.3085174 <a href="https://ieeexplore.ieee.org/document/9570818">(PDF)</a></font></li>
+  <li><font face="Times New Roman"> Nakema Y. Deonauth, Mingchu Li, <u><strong>Shuo Yu</strong></u>, Xiangtai Chen. An Upstream-Reciprocity-Based Strategy for Academic Social Networks Using Public Goods Game. <strong>IEEE Transactions on Computational Social Systems</strong>. Volume 8, Issue 6, December 2021, Pages 1417-1426. DOI: 10.1109/TCSS.2021.3085174 <a href="https://ieeexplore.ieee.org/document/9570818">(PDF)</a></font></li>
   <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Qing Qing, Chen Zhang, Ahsan Shehzad, Giles Oatley, Feng Xia. Data-Driven Decision-Making in COVID-19 Response: A Survey, <strong>IEEE Transactions on Computational Social Systems</strong>, Volume 8, August 2021, Pages 1016-1029. DOI: 10.1109/TCSS.2021.3075955 <a href="https://ieeexplore.ieee.org/document/9444122">(PDF)</a></font></li>
   <li><font face="Times New Roman"> Feng Xia, <u><strong>Shuo Yu*</strong></u>, Chengfei Liu, Jianxin Li, Ivan Lee. CHIEF: Clustering with Higher order Motifs in Big Networks. <strong>IEEE Transactions on Network Science and Engineering</strong>. September 2021. DOI: 10.1109/TNSE.2021.3108974 <a href="https://ieeexplore.ieee.org/abstract/document/9527112">(PDF)</a> <a href="https://github.com/yushuowiki/CHIEF">(CODE)</a></font></li>
   <li><font face="Times New Roman"> Feng Xia, Ke Sun, <u><strong>Shuo Yu</strong></u>, Aziz, Abdul, Liangtian Wan, Shirui Pan, Huan Liu. Graph Learning: A Survey, <strong>IEEE Transactions on Artificial Intelligence</strong>, Volume 8, April 2021, Pages 1016-1029. DOI: 10.1109/TAI.2021.3076021 <a href="https://ieeexplore.ieee.org/document/9416834">(PDF)</a></font></li>
