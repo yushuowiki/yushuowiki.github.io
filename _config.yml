@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuo Yu"
-description              : "School of Computer Science and Technology, Dalian University of Technology, Dalian 116024"
+description              : "School of Computer Science and Technology, Dalian University of Technology, Dalian 116024, Liaoning, China"
 repository               : "yushuowiki/yushuowiki.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,7 +27,7 @@ author:
   bio2             : "Assistant Dean"
   college          :
   university       : 
-  location         : "Liaoning, China"
+  location         : 
   postalcode       : 
   employer         :
   pubmed           : 
