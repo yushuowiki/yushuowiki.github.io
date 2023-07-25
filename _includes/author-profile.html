@@ -18,7 +18,7 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul font-family="Times New Roman" class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; font-family : Times New Roman;">{{ site.description }}</div></li>
+        <li><div style="white-space: normal; font-family : Times New Roman;"><font size="10">{{ site.description }}</font></div></li>
       {% endif %}
       {% if author.college %}
       <li><div style="white-space: normal;">{{ author.college }}</div></li>
@@ -30,7 +30,7 @@
       <li><div style="white-space: normal; margin-bottom: 1em;">{{ author.postalcode }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <i style="font-family : Times New Roman;"><font size="10">{{ author.location }}</font></i></li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <i style="font-family : Times New Roman;">{{ author.location }}</i></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
