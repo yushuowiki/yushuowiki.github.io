@@ -95,9 +95,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 #  <font face="Times New Roman">Professional Affiliations</font>
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
 - <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science</font>
-- <font face="Times New Roman">Lead Guest Editor, Frontiers in Big Data Special Issues on Knowledge Graph and Data Analytics</font>
-- <font face="Times New Roman">Guest Associate Editor, Frontiers in Data Mining and Management</font>
-- <font face="Times New Roman">Guest Associate Editor, Frontiers in Data Science</font>
+- <font face="Times New Roman">Lead Guest Editor, Frontiers in Big Data Special Issues on Knowledge Graph and Data Analytics (Guest Associate Editor, Frontiers in Big Data&Data Mining and Management; Frontiers in Big Data&Data Science)</font>
+
 
 
 # <font face="Times New Roman">Academic Activities</font> 
