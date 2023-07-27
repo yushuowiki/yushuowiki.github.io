@@ -27,9 +27,9 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # 🔥 <font face="Times New Roman">News</font> 
 
 - 🎉 <font face="Times New Roman">Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!</font>
-- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Frontiers in Big Data for the special issue “Knowledge Graphs and Big Data Analytics” <a href="https://www.frontiersin.org/research-topics/55177/knowledge-graphs-and-big-data-analytics">[click to submit]</a></font>
-- 🎉 <font face="Times New Roman">CALL FOR PAPERS in The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks”  (Please make sure the right special issue is selected.) <a href="https://www.editorialmanager.com/epjb/">[click to submit]</a></font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Frontiers in Big Data for the special issue “Knowledge Graphs and Big Data Analytics” [Indexed by ESCI] <a href="https://www.frontiersin.org/research-topics/55177/knowledge-graphs-and-big-data-analytics">[click to submit]</a></font>
 - 🎉 <font face="Times New Roman">CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science <a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">[click to submit]</a></font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks”  (Please make sure the right special issue is selected.) <a href="https://www.editorialmanager.com/epjb/">[click to submit]</a></font>
 
 # <font face="Times New Roman">Experiences</font>
  <font face="Times New Roman">
@@ -96,6 +96,9 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
 - <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science</font>
 - <font face="Times New Roman">Lead Guest Editor, Frontiers in Big Data Special Issues on Knowledge Graph and Data Analytics</font>
+- <font face="Times New Roman">Guest Associate Editor, Frontiers in Data Mining and Management</font>
+- <font face="Times New Roman">Guest Associate Editor, Frontiers in Data Science</font>
+
 
 # <font face="Times New Roman">Academic Activities</font> 
 
