@@ -4,7 +4,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item" style="color:black;"><font face="Times New Roman" size="3.5"><a href="#about-me"><b>Homepage</b></a></font></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><font face="Times New Roman" size="4"><a href="#about-me" style="color:black;"><b>Homepage</b></a></font></li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item" ><font face="Times New Roman" size="3.5"><b><a href="{{ domain }}{{ link.url }}" style="color:black;">{{ link.title }}</b></a></font></li>
           {% endfor %}
