@@ -78,7 +78,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 </font>
 
 
-
 # <font face="Times New Roman">Research Interests</font>
 
 - <font face="Times New Roman">Data Science: Big Data, Data Mining, Domain-specific Data (e.g., Healthcare, Academia, Society), Anomaly Detection, Healthcare, Large Language Models, Knowledge Graphs</font>
@@ -86,6 +85,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # <font face="Times New Roman">Honors and Awards</font>
 
+- <font face="Times New Roman">Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Distinguished Reviewer Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Rising Star, CAAI National Conference on Big Data & Social Computing (BDSC2022)</font>
 - <font face="Times New Roman">The Vannevar Bush Best Paper Honorable Mention,The ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)</font>
