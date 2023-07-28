@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research Interests"
+    url: "/#research-interests"
+    
   - title: "About Me"
     url: "/#about-me"
 
@@ -8,9 +11,6 @@ main:
 
   - title: "Experiences"
     url: "/#experiences"
-
-  - title: "Research Interests"
-    url: "/#research-interest"
 
   - title: "Honors and Hwards"
     url: "/#honors-and-awards"
