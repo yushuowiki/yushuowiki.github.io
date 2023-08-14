@@ -104,7 +104,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">PC Member,  The 23th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023)</font>
 - <font face="Times New Roman">PC Member, The 3th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)</font>
 - <font face="Times New Roman">TPC Member, The 2023 International Joint Conference on Neural Networks (IJCNN2023)</font>
-- <font face="Times New Roman">TPC Member, The 23th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP2023)</font>
 - <font face="Times New Roman">TPC Member, The 8th China National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Program Chair, IEEE ICDM 2022 Workshop on Knowledge Graphs (KG2022)</font>
 - <font face="Times New Roman">Track Chair, The 37th ACM/SIGAPP Symposium on Applied Computing (ACM/SIGAPP SAC2022) (KG2021)</font>
