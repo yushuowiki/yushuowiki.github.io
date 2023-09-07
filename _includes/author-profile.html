@@ -42,10 +42,10 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <i style="font-family : Times New Roman;">Email</i></a></li>
       {% endif %}
 	  {% if author.filedownload %}
-        <li><a href="{{ author.filedownload }}"><i class="fas fa-fw fa-linkedin" aria-hidden="true"></i> 简历（点击下载）</a></li>
+        <li><a href="{{ author.filedownload }}"><i class="fas fa-fw fa-file-download" aria-hidden="true"></i> 简历（点击下载）</a></li>
       {% endif %}
 	  {% if author.filedownloadcv %}
-        <li><a href="{{ author.filedownloadcv }}"><i class="fas fa-fw fa-linkedin" aria-hidden="true"></i> <i style="font-family : Times New Roman;"> CV（Click to download）</i></a></li>
+        <li><a href="{{ author.filedownloadcv }}"><i class="fas fa-fw fa-file-download" aria-hidden="true"></i> <i style="font-family : Times New Roman;"> CV（Click to download）</i></a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
