@@ -103,7 +103,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 
 - <font face="Times New Roman">PC Member, SIAM International Conference on Data Mining (SDM2024)</font> 
-- <font face="Times New Roman">Program Committee Chairs, The 6th International Conference onData Science and Information Technology (DSIT 2023)</font> 
+- <font face="Times New Roman">PC Chairs, The 6th International Conference onData Science and Information Technology (DSIT 2023)</font> 
 - <font face="Times New Roman">TPC Member, The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc 2023)</font> 
 - <font face="Times New Roman">PC Member,  The 23th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023)</font>
 - <font face="Times New Roman">PC Member, The 3th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)</font>
