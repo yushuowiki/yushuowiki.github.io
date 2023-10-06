@@ -154,6 +154,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Selected Publications</font>
 
 <ul style="list-style-type: circle;">
+  <li><font face="Times New Roman">Mourad Lablack, <u><strong>Shuo Yu*</strong></u>, Shuai Xu, Yanming Shen. Long-sequence model for traffic forecasting in suboptimal situation. Proceedings of the 18th Workshop on Mobility in the Evolving Internet Architecture (MobiArch'23).</font></li>
   <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. Quantum Graph Learning: Frontiers and Outlook. arXiv preprint arXiv:2302.00892 (2023).  <a href="https://arxiv.org/abs/2302.00892">(PDF)</a></font></li>
   <li><font face="Times New Roman">Feng Ding, Naiwen Luo, <u><strong>Shuo Yu*</strong></u>, and Zhikui Chen, MEGA: Explaining Graph Neural Networks with Network Motifs, International Joint Conference on Neural Networks (IJCNN), 2023. (Accepted)</font></li>
   <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Feng Xia, Shihao Li, Mingliang Hou, and Quan Z. Sheng. 2023. Spatio-Temporal Graph Learning for Epidemic Prediction. <strong>ACM Transactions on Intelligent Systems and Technology</strong>. (Accepted January 2023). DOI:10.1145/3579815 <a href="https://doi.org/10.1145/3579815">(PDF)</a> <a href="https://github.com/yushuowiki/STEP">(CODE)</a> </font></li>
