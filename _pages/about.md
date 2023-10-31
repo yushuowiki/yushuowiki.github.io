@@ -137,7 +137,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Main Investigator, Fundamental Research Funds for the Central Universities (No. DUT19LAB23) </font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
 - <font face="Times New Roman">Main Investigator, Intelligent Diagnosis and Prevention Platform for Cardiovascular and Cerebrovascular Complications of Diabetes Based on Mass Spectrometry Data</font>
-- <font face="Times New Roman">Main Investigator, Knowledge-Driven Swarm Intelligence Decision-Making under Resource-Constrained Condition (No. 82231024)</font>
+- <font face="Times New Roman">Lead Investigator, Knowledge-Driven Collective Decision Intelligence under Resource-Constrained Condition (No. 82231024)</font>
 
 # <font face="Times New Roman">Conference Talks</font>
 
