@@ -129,6 +129,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Fundings</font> 
 
 - <font face="Times New Roman">Lead Principal Investigator, National Science Foundation Program of China (No. 62102060), Deep Graph Learning Based Group Anomaly Detection in Social Networks.</font>
+- <font face="Times New Roman">Lead Principal Investigator, SMP-IDATA Chenxing Youth Fund, Online Social Group Profiling for Online Social Networks.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Diagnosis Assistant Platform of Nervous System Diseases Based on Multi-channel Attentional EEG Network, Dalian University.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Advanced Science and Technology Innovation Program (No. CXY-ZKQN-2019-048), Formulation and Evolution of Academic Teams, China Association for Science and Technology.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Unstructured Perioperative Period Data Governance, Shenzhen Comen Medical Instruments Co., Ltd.</font>
