@@ -84,13 +84,14 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # <font face="Times New Roman">Honors and Awards</font>
 
+- <font face="Times New Roman">The First SMP-IDATA Chenxing Youth (2023)</font>
 - <font face="Times New Roman">Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Distinguished Reviewer Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
+- <font face="Times New Roman">Rising Star Award, ACM China Council Dalian Chapter (2022)</font>
 - <font face="Times New Roman">Rising Star, CAAI National Conference on Big Data & Social Computing (BDSC2022)</font>
 - <font face="Times New Roman">The Vannevar Bush Best Paper Honorable Mention,The ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)</font>
 - <font face="Times New Roman">Best Paper Award, IEEE International Conference on Computer Science and Data Engineering (IEEE CSDE2020)</font>
 - <font face="Times New Roman">Best Paper Award, IEEE International Conference on Big Data Intelligence and Computing (IEEE DataCom2017)</font>
-- <font face="Times New Roman">Rising Star Award, ACM China Council Dalian Chapter (2022)</font>
 
 #  <font face="Times New Roman">Professional Affiliations</font>
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
@@ -102,7 +103,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 
 - <font face="Times New Roman">PC Member, SIAM International Conference on Data Mining (SDM2024)</font> 
-- <font face="Times New Roman">PC Chairs, The 6th International Conference onData Science and Information Technology (DSIT 2023)</font> 
+- <font face="Times New Roman">PC Chairs, Data Science and Information Technology (DSIT 2024)</font> 
 - <font face="Times New Roman">TPC Member, The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc 2023)</font> 
 - <font face="Times New Roman">PC Member,  The 23th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023)</font>
 - <font face="Times New Roman">PC Member, The 3th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)</font>
@@ -129,10 +130,14 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Fundings</font> 
 
 - <font face="Times New Roman">Lead Principal Investigator, National Science Foundation Program of China (No. 62102060), Deep Graph Learning Based Group Anomaly Detection in Social Networks.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Fundamental Research Funds for the Central Universities, Higher-order Structure-aware Group Anomaly Detection.</font>
 - <font face="Times New Roman">Lead Principal Investigator, SMP-IDATA Chenxing Youth Fund, Online Social Group Profiling for Online Social Networks.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Diagnosis Assistant Platform of Nervous System Diseases Based on Multi-channel Attentional EEG Network, Dalian University.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Advanced Science and Technology Innovation Program (No. CXY-ZKQN-2019-048), Formulation and Evolution of Academic Teams, China Association for Science and Technology.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Unstructured Perioperative Period Data Governance, Shenzhen Comen Medical Instruments Co., Ltd.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Technology Transformation, A Graph Representation Learning Model-Based Approach for EEG Data Classification.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Technology Transformation, Unstructured Data Governance Based on NLP Technology.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Technology Transformation, A Knowledge-Driven Approach to Collaborative Decision Making in Bio-Intelligent Groups.</font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 61872054)</font>
 - <font face="Times New Roman">Main Investigator, Fundamental Research Funds for the Central Universities (No. DUT19LAB23) </font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
