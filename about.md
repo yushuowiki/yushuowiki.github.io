@@ -160,6 +160,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Selected Publications</font>
 
 <ul style="list-style-type: circle;">
+  <li><font face="Times New Roman"> Zhaoxian Dong, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Multi-scale Dynamic Hypergraph Convolution Network for Traffic Flow Forecasting. Journal of Shanghai Jiao Tong University (Science). (Accepted)</font></li>
   <li><font face="Times New Roman"> Yuting Ma, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Pretraining Molecules with Explicit Substructure Information. SIAM International Conference on Data Mining (SIAM-SDM24). (Accepted)</font></li>
   <li><font face="Times New Roman"> Shan Jin, Zhikui Chen, <u><strong>Shuo Yu*</strong></u>,  Muhammad Altaf, and Zhenchao Ma. 2023. Self-Augmentation Graph Contrastive Learning for Multi-view Attribute Graph Clustering. In proceedings of the 2023 Workshop on Advanced Multimedia Computing for Smart Manufacturing and Engineering. Association for Computing Machinery, New York, NY, USA, 51–56. https://doi.org/10.1145/3606042.3616455.</font></li>
   <li><font face="Times New Roman">Mourad Lablack, <u><strong>Shuo Yu*</strong></u>, Shuai Xu, Yanming Shen. Long-sequence model for traffic forecasting in suboptimal situation. 2023. Proceedings of the 18th Workshop on Mobility in the Evolving Internet Architecture (MobiArch'23). Association for Computing Machinery, New York, NY, USA, 25–30. https://doi.org/10.1145/3615587.3615985</font></li>
