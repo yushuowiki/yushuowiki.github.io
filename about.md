@@ -84,7 +84,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 # <font face="Times New Roman">Honors and Awards</font>
 
-- <font face="Times New Roman">The First SMP-IDATA Chenxing Youth (2023)</font>
+- <font face="Times New Roman">The First Term SMP-IDATA Chenxing Youth Fund, National Conference of Social Media Processing and Data Space Research Institute of Hefei Comprehensive National Science Center (2023) (Funding rate <10%)</font>
 - <font face="Times New Roman">Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Distinguished Reviewer Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Rising Star Award, ACM China Council Dalian Chapter (2022)</font>
@@ -160,6 +160,9 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Selected Publications</font>
 
 <ul style="list-style-type: circle;">
+  <li><font face="Times New Roman"> Tao Tang, Zhuoyang Han, Zhen Cai, <u><strong>Shuo Yu*</strong></u>, Xiaokang Zhou, Taiwo Oseni, and Sajaland Das. 2024. Personalized Federated Graph Learning on Non-llD Electronic Health Records. IEEE Transactions on Neural Networks and Learning Systems. (Accepted)</font></li>
+  <li><font face="Times New Roman"> Ciyuan Peng, Mujie Liu, Chenxuan Meng, <u><strong>Shuo Yu*</strong></u>, and Feng Xia. 2024. Adaptive Brain Network Augmentation based on Group-aware Graph Learning. International Conference on Learning Representations (ICLR2024). (Accepted)</font></li>
+  <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Huafei Huang, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen. 2024. Formulating and Representing Multi-agent Systems with Hypergraphs. IEEE Transactions on Neural Networks and Learning Systems. (Accepted)</font></li>
   <li><font face="Times New Roman"> Zhaoxian Dong, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Multi-scale Dynamic Hypergraph Convolution Network for Traffic Flow Forecasting. Journal of Shanghai Jiao Tong University (Science). (Accepted)</font></li>
   <li><font face="Times New Roman"> Yuting Ma, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Pretraining Molecules with Explicit Substructure Information. SIAM International Conference on Data Mining (SIAM-SDM24). (Accepted)</font></li>
   <li><font face="Times New Roman"> Shan Jin, Zhikui Chen, <u><strong>Shuo Yu*</strong></u>,  Muhammad Altaf, and Zhenchao Ma. 2023. Self-Augmentation Graph Contrastive Learning for Multi-view Attribute Graph Clustering. In proceedings of the 2023 Workshop on Advanced Multimedia Computing for Smart Manufacturing and Engineering. Association for Computing Machinery, New York, NY, USA, 51–56. https://doi.org/10.1145/3606042.3616455.</font></li>
