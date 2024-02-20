@@ -87,7 +87,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">The First Term SMP-IDATA Chenxing Youth Fund, National Conference of Social Media Processing and Data Space Research Institute of Hefei Comprehensive National Science Center (2023) (Funding rate <10%)</font>
 - <font face="Times New Roman">Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Distinguished Reviewer Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
-- <font face="Times New Roman">Rising Star Award, ACM China Council Dalian Chapter (2022)</font>
+- <font face="Times New Roman">Rising Star, ACM China Council Dalian Chapter (2022)</font>
 - <font face="Times New Roman">Rising Star, CAAI National Conference on Big Data & Social Computing (BDSC2022)</font>
 - <font face="Times New Roman">The Vannevar Bush Best Paper Honorable Mention,The ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)</font>
 - <font face="Times New Roman">Best Paper Award, IEEE International Conference on Computer Science and Data Engineering (IEEE CSDE2020)</font>
@@ -96,8 +96,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 #  <font face="Times New Roman">Professional Affiliations</font>
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
 - <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science</font>
-- <font face="Times New Roman">Lead Guest Editor, Frontiers in Big Data on Knowledge Graph and Data Analytics</font>
-- <font face="Times New Roman">Guest Associate Editor, Frontiers in Big Data</font>
 
 # <font face="Times New Roman">Academic Activities</font> 
 
@@ -135,9 +133,9 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Lead Principal Investigator, Diagnosis Assistant Platform of Nervous System Diseases Based on Multi-channel Attentional EEG Network, Dalian University.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Advanced Science and Technology Innovation Program (No. CXY-ZKQN-2019-048), Formulation and Evolution of Academic Teams, China Association for Science and Technology.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Unstructured Perioperative Period Data Governance, Shenzhen Comen Medical Instruments Co., Ltd.</font>
-- <font face="Times New Roman">Lead Principal Investigator, Technology Transformation, A Graph Representation Learning Model-Based Approach for EEG Data Classification.</font>
-- <font face="Times New Roman">Lead Principal Investigator, Technology Transformation, Unstructured Data Governance Based on NLP Technology.</font>
-- <font face="Times New Roman">Lead Principal Investigator, Technology Transformation, A Knowledge-Driven Approach to Collaborative Decision Making in Bio-Intelligent Groups.</font>
+- <font face="Times New Roman">Lead Principal Investigator, A Graph Representation Learning Model-Based Approach for EEG Data Classification.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Unstructured Data Governance Based on NLP Technology.</font>
+- <font face="Times New Roman">Lead Principal Investigator, A Knowledge-Driven Approach to Collaborative Decision Making in Bio-Intelligent Groups.</font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 61872054)</font>
 - <font face="Times New Roman">Main Investigator, Fundamental Research Funds for the Central Universities (No. DUT19LAB23) </font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
