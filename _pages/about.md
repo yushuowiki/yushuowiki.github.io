@@ -160,6 +160,8 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 <ul style="list-style-type: circle;">
   <li><font face="Times New Roman"> 
   Huafei Huang, Xu Yuan, <u><strong>Shuo Yu*</strong></u>, Wenhong Zhao, Osama Alfarraj, Amr Tolba, and Feng Xia. 2024. Few-shot Semantic Segmentation for ConsumerElectronics: An Inter-class Relation MiningApproach. IEEE Transactions on Consumer Electronics. (Accepted)</font></li>
+  <li><font face="Times New Roman"> 
+  Zhen Cai, Tao Tang, <u><strong>Shuo Yu*</strong></u>, Yunpeng Xiao, and Feng Xia. 2024. Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems. IEEE Internet of Things Journal. 11(6): 10384-10397</font></li>
   <li><font face="Times New Roman"> Tao Tang, Zhuoyang Han, Zhen Cai, <u><strong>Shuo Yu*</strong></u>, Xiaokang Zhou, Taiwo Oseni, and Sajaland Das. 2024. Personalized Federated Graph Learning on Non-llD Electronic Health Records. IEEE Transactions on Neural Networks and Learning Systems. (Accepted)</font></li>
   <li><font face="Times New Roman"> Ciyuan Peng, Mujie Liu, Chenxuan Meng, <u><strong>Shuo Yu*</strong></u>, and Feng Xia. 2024. Adaptive Brain Network Augmentation based on Group-aware Graph Learning. International Conference on Learning Representations (ICLR2024). (Accepted)</font></li>
   <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Huafei Huang, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen. 2024. Formulating and Representing Multi-agent Systems with Hypergraphs. IEEE Transactions on Neural Networks and Learning Systems. 1-15. https://doi.org/10.1109/TNNLS.2024.3368111</font></li>
