@@ -144,7 +144,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Conference Talks</font>
 
 - <font face="Times New Roman">MEGA:Explaining Graph Neural Networks with Network Motifs. International Joint Conference on Neural Networks (IJCNN 2023), Queensland, Australia, June 18-23, 2023 </font>
-- <font face="Times New Roman">Deep Graph Learning: Data, Methods, and Applications. The International Workshop on the 22nd IEEE International Conference on Data Mining (MLoG 2022). (<strong>Keynote Speak</strong>)</font>
+- <font face="Times New Roman">Deep Graph Learning: Data, Methods, and Applications. The Machine Learning on Graphs Workshop on ACM International Conference on Web Search And Data Mining(WSDM 2023). (<strong>Keynote Speak</strong>)</font>
 - <font face="Times New Roman">Graph Augmentation Learning. The 31st International World Wide Web Conference Workshop on Graph Learning, Virtual Conference, April 25-29, 2022</font>
 - <font face="Times New Roman">CRI:Measuring City Infection Risk amid COVID-19. IEEE International Conference on Computer Science and Data Engineering 2020 (IEEE CSDE 2020), Virtual Event, Australia, December 16-18, 2020 (<font color="red">Best Paper Award</font>)</font>
 - <font face="Times New Roman">OFFER: A Motif Dimensional Framework for Network Representation Learning. The 29th ACM International Conference On Information And Knowledge Management (CIKM2020), Virtual Event, October 19-23, 2020</font>
