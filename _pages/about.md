@@ -21,14 +21,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <font face="Times New Roman">
-Dr. Shuo Yu is currently an Associate Professor in School of Computer Science and Technology, Dalian University of Technology. She has published over 60 papers in ACM/IEEE conferences, journals, as well as magazines, and received several academic awards, including IEEE DataCom 2017 Best Paper Award, IEEE CSDE 2020 Best Paper Award, ACM/IEEE JCDL 2020 The Vannevar Bush Best Paper Honorable Mention, CAAI BDSC2022 Rising Star, and the First Term SMP-IDATA Chenxing Youth Fund. Dr. Yu received <a href='https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl'><strong><span id='total_cit'>970</span></strong></a> citations to her work. She has served as the Track Chair of Knowledge Graph Track on ACM/SIGAPP SAC 2022 (KG2021) and Program Chair of ICDM Workshop on Knowledge Graphs (KG2022), as well as PC member of many other international conferences. Her research interests include data science, knowledge science, and graph learning. She is a lifelong member of CAAI. She is a member of ACM, IEEE, and CCF. She is also a member of IEEE Young Professionals, IEEE Computational Intelligence Society, IEEE Standards Association, and IEEE Women in Engineering.
+<strong>Short Bio</strong> Dr. Shuo Yu is currently an Associate Professor in School of Computer Science and Technology, Dalian University of Technology. She has published over 60 papers in ACM/IEEE conferences, journals, as well as magazines, and received several academic awards, including IEEE DataCom 2017 Best Paper Award, IEEE CSDE 2020 Best Paper Award, ACM/IEEE JCDL 2020 The Vannevar Bush Best Paper Honorable Mention, CAAI BDSC2022 Rising Star, and the First Term SMP-IDATA Chenxing Youth Fund. Dr. Yu received <a href='https://scholar.google.com/citations?user=ev3C1hkAAAAJ&hl'><strong><span id='total_cit'>970</span></strong></a> citations to her work. She has served as the Track Chair of Knowledge Graph Track on ACM/SIGAPP SAC 2022 (KG2021) and Program Chair of ICDM Workshop on Knowledge Graphs (KG2022), as well as PC member of many other international conferences. Her research interests include brain science, data science, and graph learning. She is a lifelong member of CAAI. She is a member of ACM, IEEE, and CCF. She is also a member of IEEE Young Professionals, IEEE Computational Intelligence Society, IEEE Standards Association, and IEEE Women in Engineering.
 </font>
 
 # 🔥 <font face="Times New Roman">News</font> 
 
 - 🎉 <font face="Times New Roman">Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!</font>
 - 🎉 <font face="Times New Roman">CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science <a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">[click to submit]</a> extended to 1st, April, 2024.</font>
-- 🎉 <font face="Times New Roman">CALL FOR PAPERS in The European Physical Journal B for the special issue “New frontiers in exploring the dynamics of community structure in online social networks”  (Please make sure the right special issue is selected.) <a href="https://www.epj.org/epjb-open-calls-for-papers/2592-epj-b-topicla-issue-new-frontiers-in-exploring-the-dynamics-of-community-structure-in-online-social-networks">[click to submit]</a> extended to 1st, April, 2024.</font>
 
 # <font face="Times New Roman">Experiences</font>
  <font face="Times New Roman">
@@ -62,7 +61,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
       Dalian University of Technology
     </div>
   	<div class="right" style="box-sizing: border-box;">
-      Postdoc (School of Computer Science and Technology), 2019-2022
+      Postdoctoral Research Fellow (School of Computer Science and Technology), 2019-2022
     </div>
   </li>
     <li style = "display:flex;justify-content:space-between;">
@@ -80,11 +79,12 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Research Interests</font>
 
 - <font face="Times New Roman">Data Science: Big Data, Data Mining, Domain-specific Data (e.g., Healthcare, Academia, etc.), Anomaly Detection, LLMs, Knowledge Graphs</font>
+
 - <font face="Times New Roman">Graph Learning: Responsible Graph Learning, Federated Graph Learning, Multi-modal Graph Learning, Physics-informed Graph Learning</font>
 
 # <font face="Times New Roman">Honors and Awards</font>
 
-- <font face="Times New Roman">The First Term SMP-IDATA Chenxing Youth Fund, National Conference of Social Media Processing and Data Space Research Institute of Hefei Comprehensive National Science Center (2023) (Funding rate <10%)</font>
+- <font face="Times New Roman">The 1st SMP-IDATA Chenxing Youth Fund, National Conference of Social Media Processing (SMP) and Data Space Research Institute (2023) (Funding rate <10%)</font>
 - <font face="Times New Roman">Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Distinguished Reviewer Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Rising Star, ACM China Council Dalian Chapter (2022)</font>
@@ -95,15 +95,15 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 #  <font face="Times New Roman">Professional Affiliations</font>
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
-- <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science</font>
+- <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science.</font><a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">(https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)</a></font>
 
 # <font face="Times New Roman">Academic Activities</font> 
 
 - <font face="Times New Roman">PC Member, SIAM International Conference on Data Mining (SDM2024)</font> 
-- <font face="Times New Roman">PC Chairs, Data Science and Information Technology (DSIT 2024)</font> 
+- <font face="Times New Roman">PC Chairs, Data Science and Information Technology (DSIT2024)</font> 
 - <font face="Times New Roman">TPC Member, The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc 2023)</font> 
 - <font face="Times New Roman">PC Member,  The 23th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023)</font>
-- <font face="Times New Roman">PC Member, The 3th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023)</font>
+- <font face="Times New Roman">PC Member, The 3th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K2023)</font>
 - <font face="Times New Roman">TPC Member, The 2023 International Joint Conference on Neural Networks (IJCNN2023)</font>
 - <font face="Times New Roman">TPC Member, The 8th China National Conference on Big Data & Social Computing (BDSC2023)</font>
 - <font face="Times New Roman">Program Chair, IEEE ICDM 2022 Workshop on Knowledge Graphs (KG2022)</font>
@@ -123,12 +123,16 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Journal of Network and Computer Applications </font>
 - <font face="Times New Roman">The Computer Journal</font>
 - <font face="Times New Roman">Journal of Computational Social Science </font>
+- <font face="Times New Roman">IJCAI2024</font> 
+- <font face="Times New Roman">KDD2024</font> 
 
 # <font face="Times New Roman">Fundings</font> 
 
+- <font face="Times New Roman">Lead Principal Investigator, Fundamental Research Funds for the Central Universities (No. DUT24LAB121), Efficient Data Governance and Intelligent Diagnosis Method for Time-series Flight Data.</font>
 - <font face="Times New Roman">Lead Principal Investigator, National Science Foundation Program of China (No. 62102060), Deep Graph Learning Based Group Anomaly Detection in Social Networks.</font>
-- <font face="Times New Roman">Lead Principal Investigator, Fundamental Research Funds for the Central Universities, Higher-order Structure-aware Group Anomaly Detection.</font>
-- <font face="Times New Roman">Lead Principal Investigator, SMP-IDATA Chenxing Youth Fund, Online Social Group Profiling for Online Social Networks.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Fundamental Research Funds for the Central Universities (No. DUT23LAB101), Resource-Constrained Knowledge-Driven Group Intelligent Decision Making.</font>
+- <font face="Times New Roman">Lead Principal Investigator, Fundamental Research Funds for the Central Universities (No. DUT22RC(3)060), Higher-order Structure-aware Group Anomaly Detection.</font>
+- <font face="Times New Roman">Lead Principal Investigator, SMP-IDATA Chenxing Youth Fund (No. SMP2023-iData-006), Online Social Group Profiling for Online Social Networks.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Diagnosis Assistant Platform of Nervous System Diseases Based on Multi-channel Attentional EEG Network, Dalian University.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Advanced Science and Technology Innovation Program (No. CXY-ZKQN-2019-048), Formulation and Evolution of Academic Teams, China Association for Science and Technology.</font>
 - <font face="Times New Roman">Lead Principal Investigator, Unstructured Perioperative Period Data Governance, Shenzhen Comen Medical Instruments Co., Ltd.</font>
@@ -139,7 +143,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Main Investigator, Fundamental Research Funds for the Central Universities (No. DUT19LAB23) </font>
 - <font face="Times New Roman">Main Investigator, National Science Foundation Program of China (No. 71774020)</font>
 - <font face="Times New Roman">Main Investigator, Intelligent Diagnosis and Prevention Platform for Cardiovascular and Cerebrovascular Complications of Diabetes Based on Mass Spectrometry Data</font>
-- <font face="Times New Roman">Lead Investigator, Knowledge-Driven Collective Decision Intelligence under Resource-Constrained Condition (No. 82231024)</font>
 
 # <font face="Times New Roman">Conference Talks</font>
 
@@ -169,30 +172,30 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 
 <ul style="list-style-type: circle;">
 
- <li><font face="Times New Roman"> Shaoyuan Chen, Linlin You, Rui Liu, <u><strong>Shuo Yu</strong></u>, and Ahmed M. Abdelmoniems. 2024. Federated Knowledge Transfer Fine-tuning Large Server odel withResource-constrained loT Clients. <strong>International Joint Conference on Artificial Intelligence (IJCAI2024)</strong>.  (Accepted) (best student paper)</font></li>
-  <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>International Joint Conference on Artificial Intelligence (IJCAI2024)</strong>.  (Accepted) <a href="https://arxiv.org/abs/2404.17169">(PDF)</a></font></li>
-  <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Zhuoyang Han, Estrid He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks. <strong>ACM Special Interest Group on Knowledge Discovery and Data Mining (KDD2024)</strong>.  (Accepted)  <a href="https://arxiv.org/abs/2405.17034">(PDF)</a></font></li>
-  <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Huafei Huang, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen. 2024. Formulating and Representing Multi-agent Systems with Hypergraphs. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. 1-15. https://doi.org/10.1109/TNNLS.2024.3368111. <a href="https://ieeexplore.ieee.org/abstract/document/10449457">(PDF)</a></font></li>
+  <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>IJCAI2024</strong>. <a href="https://arxiv.org/abs/2404.17169">(PDF)</a></font></li>
+  <li><font face="Times New Roman"> Shaoyuan Chen, Linlin You, Rui Liu, <u><strong>Shuo Yu</strong></u>, and Ahmed M. Abdelmoniems. 2024. Federated Knowledge Transfer Fine-tuning Large Server odel withResource-constrained loT Clients. <strong>IJCAI2024</strong>. <font color="red">(Best Student Paper)</font></font></li>
+  <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Zhuoyang Han, Estrid He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks. <strong>KDD2024</strong>. <a href="https://arxiv.org/abs/2405.17034">(PDF)</a></font></li>
+  <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Huafei Huang, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen. 2024. Formulating and Representing Multi-agent Systems with Hypergraphs. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. (Early Access) <a href="https://ieeexplore.ieee.org/abstract/document/10449457">(PDF)</a></font></li>
   <li><font face="Times New Roman"> 
-  Huafei Huang, Xu Yuan, <u><strong>Shuo Yu*</strong></u>, Wenhong Zhao, Osama Alfarraj, Amr Tolba, and Feng Xia. 2024. Few-shot Semantic Segmentation for Consumer Electronics: An Inter-class Relation Mining Approach. IEEE Transactions on Consumer Electronics. 70(1): 3709-3721. (DOI:10.1109/TCE.2024.3373630) <a href="https://ieeexplore.ieee.org/abstract/document/10460319">(PDF)</a></font></li>
+  Huafei Huang, Xu Yuan, <u><strong>Shuo Yu*</strong></u>, Wenhong Zhao, Osama Alfarraj, Amr Tolba, and Feng Xia. 2024. Few-shot Semantic Segmentation for Consumer Electronics: An Inter-class Relation Mining Approach. IEEE Transactions on Consumer Electronics. 70(1): 3709-3721. <a href="https://ieeexplore.ieee.org/abstract/document/10460319">(PDF)</a></font></li>
   <li><font face="Times New Roman"> 
-  Zhen Cai, Tao Tang, <u><strong>Shuo Yu*</strong></u>, Yunpeng Xiao, and Feng Xia. 2024. Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems. IEEE Internet of Things Journal. 11(6): 10384-10397. https://doi.org/10.1109/JIOT.2023.3329363. <a href="https://ieeexplore.ieee.org/abstract/document/10308576">(PDF)</a></font></li>
+  Zhen Cai, Tao Tang, <u><strong>Shuo Yu*</strong></u>, Yunpeng Xiao, and Feng Xia. 2024. Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems. IEEE Internet of Things Journal. 11(6): 10384-10397. <a href="https://ieeexplore.ieee.org/abstract/document/10308576">(PDF)</a></font></li>
   <li><font face="Times New Roman"> 
-  Xu Yuan, Jiaxi Chen, Yingbo Wang, Anni Chen, Yiou Huang, Wenhong Zhao, <u><strong>Shuo Yu</strong></u>, Yunpeng Xiao, and Feng Xia. 2024. # Semantic-Enhanced Knowledge Graph Completion. Mathematics. 12(3): 450. https://doi.org/10.1109/JIOT.2023.3329363. </font></li>
-  <li><font face="Times New Roman"> Tao Tang, Zhuoyang Han, Zhen Cai, <u><strong>Shuo Yu*</strong></u>, Xiaokang Zhou, Taiwo Oseni, and Sajaland Das. 2024. Personalized Federated Graph Learning on Non-llD Electronic Health Records. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. (DOI: 10.1109/TNNLS.2024.3370297) <a href="https://ieeexplore.ieee.org/abstract/document/10475550">(PDF)</a></font></li>
-  <li><font face="Times New Roman"> Ciyuan Peng, Mujie Liu, Chenxuan Meng, <u><strong>Shuo Yu*</strong></u>, and Feng Xia. 2024. Adaptive Brain Network Augmentation based on Group-aware Graph Learning. <strong>The Second Tiny Papers Track at International Conference on Learning Representations (ICLR2024)</strong>. <a href="https://openreview.net/forum?id=29N5YY0OuO&referrer=%5Bthe%20profile%20of%20Feng%20Xia%5D(%2Fprofile%3Fid%3D~Feng_Xia1)">(PDF)</a></font></li>
-  <li><font face="Times New Roman"> Zhaoxian Dong, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Multi-scale Dynamic Hypergraph Convolution Network for Traffic Flow Forecasting. Journal of Shanghai Jiao Tong University (Science). https://doi.org/10.1007/s12204-023-2682-z. <a href="https://link.springer.com/article/10.1007/s12204-023-2682-z">(PDF)</a></font></li>
-  <li><font face="Times New Roman"> Yuting Ma, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Pretraining Molecules with Explicit Substructure Information. In proceedings of the 2024 SIAM International Conference on Data Mining (SIAM-SDM24).  https://doi.org/10.1137/1.9781611978032.60. <a href="https://epubs.siam.org/doi/10.1137/1.9781611978032.60">(PDF)</a></font></li>
-<li><font face="Times New Roman"> Feng Xia,  Xin Chen,  Shuo Yu,  Mingliang Hou,  Mujie Liu,  and Linlin You. Coupled attention networks for multivariate time series anomaly detection. 2024. IEEE Transactions on Emerging Topics in Computing, 12(1): 240-253. </font></li>
+  Xu Yuan, Jiaxi Chen, Yingbo Wang, Anni Chen, Yiou Huang, Wenhong Zhao, <u><strong>Shuo Yu</strong></u>, Yunpeng Xiao, and Feng Xia. 2024. # Semantic-Enhanced Knowledge Graph Completion. Mathematics. 12(3): 450. </font></li>
+  <li><font face="Times New Roman"> Tao Tang, Zhuoyang Han, Zhen Cai, <u><strong>Shuo Yu*</strong></u>, Xiaokang Zhou, Taiwo Oseni, and Sajaland Das. 2024. Personalized Federated Graph Learning on Non-llD Electronic Health Records. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. <a href="https://ieeexplore.ieee.org/abstract/document/10475550">(PDF)</a></font></li>
+  <li><font face="Times New Roman"> Ciyuan Peng, Mujie Liu, Chenxuan Meng, <u><strong>Shuo Yu*</strong></u>, and Feng Xia. Adaptive Brain Network Augmentation based on Group-aware Graph Learning. <strong>The Second Tiny Papers Track at International Conference on Learning Representations (ICLR2024)</strong>. <a href="https://openreview.net/forum?id=29N5YY0OuO&referrer=%5Bthe%20profile%20of%20Feng%20Xia%5D(%2Fprofile%3Fid%3D~Feng_Xia1)">(PDF)</a></font></li>
+  <li><font face="Times New Roman"> Zhaoxian Dong, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Multi-scale Dynamic Hypergraph Convolution Network for Traffic Flow Forecasting. Journal of Shanghai Jiao Tong University (Science). <a href="https://link.springer.com/article/10.1007/s12204-023-2682-z">(PDF)</a></font></li>
+  <li><font face="Times New Roman"> Yuting Ma, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. 2024. Pretraining Molecules with Explicit Substructure Information. In proceedings of the 2024 SIAM International Conference on Data Mining (SDM24). <a href="https://epubs.siam.org/doi/10.1137/1.9781611978032.60">(PDF)</a></font></li>
+<li><font face="Times New Roman"> Feng Xia, Xin Chen, <u><strong>Shuo Yu*</strong></u>, Mingliang Hou,  Mujie Liu, and Linlin You. Coupled attention networks for multivariate time series anomaly detection. 2024. <strong>IEEE Transactions on Emerging Topics in Computing</strong>, 12(1): 240-253. </font></li>
  <li><font face="Times New Roman">Xu Yuan, Fangbo Li, Muhammad Zeeshan Haider, Feng Ding, Ange Qi, and <u><strong>Shuo Yu</strong></u>. Query Optimization Mechanism for Blockchain-Based Efficient Data Traceability. 2024. In proceedings of the International Conference on Algorithms and Architectures for Parallel Processing. </font></li>
-  <li><font face="Times New Roman"> Shan Jin, Zhikui Chen, <u><strong>Shuo Yu*</strong></u>,  Muhammad Altaf, and Zhenchao Ma. 2023. Self-Augmentation Graph Contrastive Learning for Multi-view Attribute Graph Clustering. In proceedings of the 2023 Workshop on Advanced Multimedia Computing for Smart Manufacturing and Engineering. Association for Computing Machinery, New York, NY, USA, 51–56. https://doi.org/10.1145/3606042.3616455. <a href="https://dl.acm.org/doi/10.1145/3606042.3616455">(PDF)</a></font></li>
-  <li><font face="Times New Roman">Mourad Lablack, <u><strong>Shuo Yu*</strong></u>, Shuai Xu, Yanming Shen. Long-sequence model for traffic forecasting in suboptimal situation. 2023. In proceedings of the 18th Workshop on Mobility in the Evolving Internet Architecture (MobiArch'23). Association for Computing Machinery, New York, NY, USA, 25–30. https://doi.org/10.1145/3615587.3615985. <a href="https://dl.acm.org/doi/10.1145/3615587.3615985">(PDF)</a></font></li>
-  <li><font face="Times New Roman">Pengfei Wang,  Xinrui Yu,  Yefei Ye,  Heng Qi, <u><strong>Shuo Yu</strong></u>,  Leyou Yang,  Qiang Zhang. Anomalous Behavior Identification with Visual Federated Learning in Multi-UAVs Systems. 2023. In proceedings of the 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). </font></li>
+  <li><font face="Times New Roman"> Shan Jin, Zhikui Chen, <u><strong>Shuo Yu*</strong></u>,  Muhammad Altaf, and Zhenchao Ma. 2023. Self-Augmentation Graph Contrastive Learning for Multi-view Attribute Graph Clustering. In proceedings of the 2023 Workshop on Advanced Multimedia Computing for Smart Manufacturing and Engineering. Association for Computing Machinery, New York, NY, USA, 51–56. <a href="https://dl.acm.org/doi/10.1145/3606042.3616455">(PDF)</a></font></li>
+  <li><font face="Times New Roman">Mourad Lablack, <u><strong>Shuo Yu*</strong></u>, Shuai Xu, Yanming Shen. Long-sequence model for traffic forecasting in suboptimal situation. 2023. In proceedings of the 18th Workshop on Mobility in the Evolving Internet Architecture (MobiArch'23). Association for Computing Machinery, New York, NY, USA, 25–30. <a href="https://dl.acm.org/doi/10.1145/3615587.3615985">(PDF)</a></font></li>
+  <li><font face="Times New Roman">Pengfei Wang, Xinrui Yu, Yefei Ye, Heng Qi, <u><strong>Shuo Yu</strong></u>,  Leyou Yang,  Qiang Zhang. Anomalous Behavior Identification with Visual Federated Learning in Multi-UAVs Systems. 2023. In proceedings of the 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). </font></li>
   <li><font face="Times New Roman">Huiling Tu, <u><strong>Shuo Yu</strong></u>,  Vidya Saikrishna,  Feng Xia,  Karin Verspoor. Deep Outdated Fact Detection in Knowledge Graphs. 2023. In proceedings of the 2023 IEEE International Conference on Data Mining Workshops (ICDMW). </font></li>
-      <li><font face="Times New Roman">Tingting Wang, Feng Ding, Naiwen Luo, Qihang Lei, Huafei Huang, Tong Zhang, and <u><strong>Shuo Yu</strong></u>. MDC: An Interpretable GNNs Method Based on Node Motif Degree and Graph Diffusion Convolution. 2023. In proceedings of the China National Conference on Big Data and Social Computing. </font></li>
-          <li><font face="Times New Roman">Huafei Huang, Feng Ding, Fengyi Zhang, Yingbo Wang, Ciyuan Peng, Ahsan Shehzad, Qihang Lei, Lili Cong, and <u><strong>Shuo Yu</strong></u>. Knowledge Graph Completion via Subgraph Topology Augmentation. 2023. In proceedings of the China National Conference on Social Media Processing. </font></li>
-          <li><font face="Times New Roman">Zhikui Chen, Muhammad Zeeshan Haider, Naiwen Luo, Shuo Yu, Xu Yuan, Yaochen Zhang, and Tayyaba Noreen. 2023. Reputation-based partition scheme for IoT security. Security and Privacy, 6(3): e287. </font></li>
-              <li><font face="Times New Roman">Xin Ye, Xiaoyan Su, Zhijun Yao, Lu-an Dong, Qiang Lin, and <u><strong>Shuo Yu</strong></u>. How Do Citizens View Digital Government Services? Study on Digital Government Service Quality Based on Citizen Feedback. 2023. Mathematics, 11(14): 3122. </font></li>
+  <li><font face="Times New Roman">Tingting Wang, Feng Ding, Naiwen Luo, Qihang Lei, Huafei Huang, Tong Zhang, and <u><strong>Shuo Yu</strong></u>. MDC: An Interpretable GNNs Method Based on Node Motif Degree and Graph Diffusion Convolution. 2023. In proceedings of the China National Conference on Big Data and Social Computing. </font></li>
+  <li><font face="Times New Roman">Huafei Huang, Feng Ding, Fengyi Zhang, Yingbo Wang, Ciyuan Peng, Ahsan Shehzad, Qihang Lei, Lili Cong, and <u><strong>Shuo Yu</strong></u>. Knowledge Graph Completion via Subgraph Topology Augmentation. 2023. In proceedings of the China National Conference on Social Media Processing. </font></li>
+  <li><font face="Times New Roman">Zhikui Chen, Muhammad Zeeshan Haider, Naiwen Luo, Shuo Yu, Xu Yuan, Yaochen Zhang, and Tayyaba Noreen. 2023. Reputation-based partition scheme for IoT security. Security and Privacy, 6(3): e287. </font></li>
+  <li><font face="Times New Roman">Xin Ye, Xiaoyan Su, Zhijun Yao, Lu-an Dong, Qiang Lin, and <u><strong>Shuo Yu</strong></u>. How Do Citizens View Digital Government Services? Study on Digital Government Service Quality Based on Citizen Feedback. 2023. Mathematics, 11(14): 3122. </font></li>
   <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. 2023. Quantum Graph Learning: Frontiers and Outlook. arXiv preprint arXiv:2302.00892.  <a href="images/papers/QuantumGraphLearningFrontiersandOutlook.pdf.pdf">(PDF)</a></font></li>
   <li><font face="Times New Roman">Feng Ding, Naiwen Luo, <u><strong>Shuo Yu*</strong></u>, and Zhikui Chen. 2023. MEGA: Explaining Graph Neural Networks with Network Motifs. 2023 International Joint Conference on Neural Networks (IJCNN). Gold Coast, Australia, 1-9. doi: 10.1109/IJCNN54540.2023.10191684. <a href="https://ieeexplore.ieee.org/document/10191684">(PDF)</a></font></li>
   <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Feng Xia, Shihao Li, Mingliang Hou, and Quan Z. Sheng. 2023. Spatio-Temporal Graph Learning for Epidemic Prediction. <strong>ACM Transactions on Intelligent Systems and Technology</strong> 14, 2, 1-25. <a href="https://doi.org/10.1145/3579815">(PDF)</a> <a href="https://github.com/yushuowiki/STEP">(CODE)</a> </font></li>
