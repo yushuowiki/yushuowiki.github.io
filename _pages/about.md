@@ -99,6 +99,7 @@ redirect_from:
 
 # <font face="Times New Roman">Academic Activities</font> 
 
+- <font face="Times New Roman">PC Member, The 3rd International Workshop on Social and Metaverse Computing, Sensing and Networking (SocialMeta2024)</font> 
 - <font face="Times New Roman">PC Member, SIAM International Conference on Data Mining (SDM2024)</font> 
 - <font face="Times New Roman">PC Chairs, Data Science and Information Technology (DSIT2024)</font> 
 - <font face="Times New Roman">TPC Member, The 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM Mobihoc 2023)</font> 
