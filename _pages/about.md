@@ -95,7 +95,8 @@ redirect_from:
 
 #  <font face="Times New Roman">Professional Affiliations</font>
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
-- <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science.</font><a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">(https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)</a></font>
+- <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science. <a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">(https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)</a></font>
+- <font face="Times New Roman">Lead Guest Editor, Electronics Special Issues on Advances in Data-Driven Artificial Intelligence.<a href="https://www.mdpi.com/journal/electronics/special_issues/VV58O89JC1">(https://www.mdpi.com/journal/electronics/special_issues/VV58O89JC1)</a> </font>
 
 # <font face="Times New Roman">Academic Activities</font> 
 
