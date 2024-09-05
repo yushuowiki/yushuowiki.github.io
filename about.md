@@ -28,6 +28,9 @@ redirect_from:
 
 - 🎉 <font face="Times New Roman">Our team recruits excellent doctoral students, master students, and undergraduate students all the year round. We welcome students who are committed and interested to scientific to join us!</font>
 - 🎉 <font face="Times New Roman">CALL FOR PAPERS in Mathematics [JCR Q1] Special Issue on Artificial Intelligence and Data Science <a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">[click to submit]</a> extended to 1st, April, 2024.</font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Sustainability Special Issue on Data-Driven Sustainable Development: Techniques and Applications <a href="https://www.mdpi.com/journal/sustainability/special_issues/453LXKVICC">[click to submit]</a> extended to 15, May, 2025.</font>
+- 🎉 <font face="Times New Roman">CALL FOR PAPERS in Electronics Special Issue on Advances in Data-Driven Artificial Intelligence <a href="https://www.mdpi.com/journal/electronics/special_issues/VV58O89JC1">[click to submit]</a> extended to 15, March, 2025.</font>
+
 
 # <font face="Times New Roman">Experiences</font>
  <font face="Times New Roman">
@@ -97,6 +100,7 @@ redirect_from:
 - <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
 - <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science. <a href="https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA">(https://www.mdpi.com/journal/mathematics/special_issues/458C3I22SA)</a></font>
 - <font face="Times New Roman">Lead Guest Editor, Electronics Special Issues on Advances in Data-Driven Artificial Intelligence.<a href="https://www.mdpi.com/journal/electronics/special_issues/VV58O89JC1">(https://www.mdpi.com/journal/electronics/special_issues/VV58O89JC1)</a> </font>
+- <font face="Times New Roman">Lead Guest Editor, Sustainability Special Issues on Data-Driven Sustainable Development: Techniques and Applications.<a href="https://www.mdpi.com/journal/sustainability/special_issues/453LXKVICC">(https://www.mdpi.com/journal/sustainability/special_issues/453LXKVICC)</a> </font>
 
 # <font face="Times New Roman">Academic Activities</font> 
 
