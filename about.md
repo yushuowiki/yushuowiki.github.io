@@ -178,11 +178,9 @@ redirect_from:
 
 <ul style="list-style-type: circle;">
 
-  <li><font face="Times New Roman"> 
-   Tao Tang, Mingliang Hou, <u><strong>Shuo Yu*</strong></u>, Zhen Cai, Zhiwen Han, Giles Oatley, and Vidya Saikrishna. 2024. FedGST: An Efficient Federated Graph Neural Network for Spatio-temporal PoI Recommendation. ACM Transactions on Sensor Networks. doi: 10.1145/3694682.<a href="https://dl.acm.org/doi/10.1145/3694682">(PDF)</a></font></li>
-  <li><font face="Times New Roman"> 
+  <li><font face="Times New Roman"> Tao Tang, Mingliang Hou, <u><strong>Shuo Yu*</strong></u>, Zhen Cai, Zhiwen Han, Giles Oatley, and Vidya Saikrishna. 2024. FedGST: An Efficient Federated Graph Neural Network for Spatio-temporal PoI Recommendation. ACM Transactions on Sensor Networks. doi: 10.1145/3694682.<a href="https://dl.acm.org/doi/10.1145/3694682">(PDF)</a></font></li>
   <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>IJCAI2024</strong>. <a href="https://arxiv.org/abs/2404.17169">(PDF)</a></font></li>
-  <li><font face="Times New Roman"> Shaoyuan Chen, Linlin You, Rui Liu, <u><strong>Shuo Yu</strong></u>, and Ahmed M. Abdelmoniems. 2024. Federated Knowledge Transfer Fine-tuning Large Server odel withResource-constrained loT Clients. <strong>IJCAI2024</strong>. <font color="red">(Best Student Paper)</font></font></li>
+  <li><font face="Times New Roman"> Shaoyuan Chen, Linlin You, Rui Liu, <u><strong>Shuo Yu</strong></u>, and Ahmed M. Abdelmoniems. 2024. Federated Knowledge Transfer Fine-tuning Large Server odel with Resource-constrained loT Clients. <strong>IJCAI2024</strong>. <font color="red">(Best Student Paper)</font></font></li>
   <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Zhuoyang Han, Estrid He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks. <strong>KDD2024</strong>. <a href="https://arxiv.org/abs/2405.17034">(PDF)</a></font></li>
   <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Huafei Huang, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen. 2024. Formulating and Representing Multi-agent Systems with Hypergraphs. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. (Early Access) <a href="https://ieeexplore.ieee.org/abstract/document/10449457">(PDF)</a></font></li>
   <li><font face="Times New Roman"> 
