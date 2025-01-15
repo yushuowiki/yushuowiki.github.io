@@ -93,7 +93,7 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 - <font face="Times New Roman">Rising Star Award, ACM China Council Dalian Chapter (2022)</font>
 
 #  <font face="Times New Roman">Professional Affiliations</font>
-- <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications.<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
+- <font face="Times New Roman">Editorial Board Member, Humanities and Social Sciences Communications. (From August 2024 to present)<a href="https://www.nature.com/palcomms/">(https://www.nature.com/palcomms/)</a> </font>
 - <font face="Times New Roman">Lead Guest Editor, Mathematics Special Issues on Artificial Intelligence and Data Science</font>
 - <font face="Times New Roman">Lead Guest Editor, Frontiers in Big Data on Knowledge Graph and Data Analytics</font>
 - <font face="Times New Roman">Guest Associate Editor, Frontiers in Big Data</font>
@@ -155,17 +155,6 @@ Dr. Shuo Yu is currently an Associate Professor in School of Computer Science an
 # <font face="Times New Roman">Selected Publications</font>
 
 <ul style="list-style-type: circle;">
-  <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Shan Jin, Ming Li, Tabinda Sarwar, and Feng Xia. Long-range Brain Graph Transformer. In The Thirty-eighth Annual Conference on Neural Information Processing Systems.</font></li>
-  <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Feng Xia, Honglong Chen, Ivan Lee, Lianhua Chi, Hanghang Tong, Shuiwang Ji, Heterogeneous Network Motif Coding, Counting, and Profiling, ACM Transactions on Knowledge Discovery from Data, 2024, 18(9): 1-21.</font></li>
-  <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Huafei Huang, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen, Formulating and Representing Multiagent Systems With Hypergraphs, IEEE Transactions on Neural Networks and Learning Systems (Online), 2024.</font></li>
-  <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</strong></u>, Zhuoyang Han, Estrid He, Xiuzhen Zhang, Feng Xia, FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks, In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2024, 2072-2081.</font></li>
-   <li><font face="Times New Roman"> Renqiang Luo, Huafei Huang, <u><strong>Shuo Yu*</u></strong>, Xiuzhen Zhang, Feng Xia, FairGT: A Fairness-aware Graph Transformer. In Proceeding of the International Joint Conference on Artificial Intelligence, 2024, 449-457.</font></li>
-   <li><font face="Times New Roman"> Tao Tang, Zhuoyang Han, Zhen Cai, <u><strong>Shuo Yu*</u></strong>, Xiaokang Zhou, Taiwo Oseni, Sajal K. Das, Personalized Federated Graph Learning on Non-IID Electronic Health Records, IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(9): 11843-11856.</font></li>
-   <li><font face="Times New Roman"> Tao Tang, Zhuoyang Han, <u><strong>Shuo Yu*</u></strong>, Adil Bagirov,  Qiang Zhang, Fuzzy Multi-view Graph Learning on Sparse Electronic Health Records,IEEE Transactions on Fuzzy Systems, 2024, 32(10): 5520-5532.</font></li>
-   <li><font face="Times New Roman"> Zhen Cai, Tao Tang, <u><strong>Shuo Yu*</u></strong>, Yunpeng Xiao, Feng Xia, Marking the Pace: A Blockchain-Enhanced Privacy-
-Traceable Strategy for Federated Recommender Systems, IEEE Internet of Things Journal, 2024, 11(6): 10384-10397.</font></li>
-   <li><font face="Times New Roman"> Huafei Huang, Xu Yuan, <u><strong>Shuo Yu</u></strong>, Wenhong Zhao, Osama Alfarraj, Amr Tolba, and Feng Xia. Few-Shot Semantic Segmentation for Consumer Electronics: An Inter-Class Relation Mining Approach. IEEE Transactions on Consumer Electronics, 2024.</font></li>
-   <li><font face="Times New Roman"> Lei Liu, <u><strong>Shuo Yu</u></strong>, Runze Wang, Zhenxun Ma, and Yanming Shen. How can large language models understand spatial-temporal data?. arXiv preprint arXiv:2401.14192 (2024).</font></li>     
   <li><font face="Times New Roman"> Shan Jin, Zhikui Chen, <u><strong>Shuo Yu*</strong></u>,  Muhammad Altaf, and Zhenchao Ma. Self-Augmentation Graph Contrastive Learning for Multi-view Attribute Graph Clustering. Association for Computing Machinery, New York, NY, USA, 51–56. https://doi.org/10.1145/3606042.3616455.</font></li>
   <li><font face="Times New Roman">Mourad Lablack, <u><strong>Shuo Yu*</strong></u>, Shuai Xu, Yanming Shen. Long-sequence model for traffic forecasting in suboptimal situation. Proceedings of the 18th Workshop on Mobility in the Evolving Internet Architecture (MobiArch'23). Association for Computing Machinery, New York, NY, USA, 25–30. https://doi.org/10.1145/3615587.3615985</font></li>
   <li><font face="Times New Roman"><u><strong>Shuo Yu</strong></u>, Ciyuan Peng, Yingbo Wang, Ahsan Shehzad, Feng Xia, and Edwin R. Hancock. Quantum Graph Learning: Frontiers and Outlook. arXiv preprint arXiv:2302.00892 (2023).  <a href="https://arxiv.org/abs/2302.00892">(PDF)</a></font></li>
