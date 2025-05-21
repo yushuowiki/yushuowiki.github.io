@@ -106,7 +106,11 @@ redirect_from:
 
 # <font face="Times New Roman">Academic Activities</font> 
 
-- <font face="Times New Roman">PC Chair, Data Science and Information Technology (DSIT2024)</font> 
+- <font face="Times New Roman">PC Member, ICKG2025</font> 
+- <font face="Times New Roman">PC Member, NeurIPS2025</font> 
+- <font face="Times New Roman">PC Member, IJCAI2025</font> 
+- <font face="Times New Roman">PC Member, ACM SIGKDD2025</font> 
+- <font face="Times New Roman">PC Member, NeurIPS2024</font> 
 - <font face="Times New Roman">PC Member, IJCAI2024</font> 
 - <font face="Times New Roman">PC Member, The 3rd International Workshop on Social and Metaverse Computing, Sensing and Networking (SocialMeta2024)</font> 
 - <font face="Times New Roman">PC Member, SIAM International Conference on Data Mining (SDM2024)</font> 
@@ -244,4 +248,3 @@ redirect_from:
   <li><font face="Times New Roman">Jun Zhang, Zhaolong Ning, Xiaomei Bai, and Wei Wang, <u><strong>Shuo Yu</strong></u>, and Feng Xia. 2016. Who are the Rising Stars in Academia?<strong> In  Proceedings of the 16th ACM/IEEE-CS on Joint Conference on Digital Libraries (JCDL'16)</strong>. Association for Computing Machinery, New York, NY, USA, 211–212.  <a href="https://dl.acm.org/doi/10.1145/2910896.2925436">(PDF)</a></font></li>
   <li><font face="Times New Roman">Yan Hu, Jun Zhang, Xiaomei Bai, <u><strong>Shuo Yu</strong></u>, and Zhuo Yang. 2016.  Influence analysis of Github repositories.  SpringerPlus.  5, 1, 1268. <a href="https://springerplus.springeropen.com/articles/10.1186/s40064-016-2897-7">(PDF)</a></font></li>
 </ul>
-
