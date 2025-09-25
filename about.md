@@ -105,6 +105,7 @@ redirect_from:
 
 # <font face="Times New Roman">Academic Activities</font> 
 
+- <font face="Times New Roman">PC member, PAKDD2026</font> 
 - <font face="Times New Roman">Track Chair, ICKG2025</font> 
 - <font face="Times New Roman">PC Member, NeurIPS2025</font> 
 - <font face="Times New Roman">PC Member, IJCAI2025</font> 
