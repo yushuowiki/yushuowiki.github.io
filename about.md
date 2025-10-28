@@ -167,6 +167,7 @@ redirect_from:
 # <font face="Times New Roman">Selected Publications</font>
 
 <ul style="list-style-type: circle;">
+<li><font face="Times New Roman"> Feng Ding, Yingbo Wang, <u><strong>Shuo Yu*</strong></u>, and Yanming Shen. Quantum Entropy Structural Encoding for Graph Neural Networks, Knowledge-Based Systems. DOI: 10.1016/j.knosys.2025.114580.<a href="https://doi.org/10.1016/j.knosys.2025.114580">(PDF)</a></font></li>
 <li><font face="Times New Roman"> Feng Ding, Tingting Wang, Yupeng Gao, <u><strong>Shuo Yu*</strong></u>, Jing Ren, Feng Xia. HALO: Half Life-Based Outdated Fact Filtering in Temporal Knowledge Graphs. <strong>WWW'2025</strong>. DOI: 10.1145/3701716.3735084.<a href="https://dl.acm.org/doi/abs/10.1145/3701716.3735084">(PDF)</a></font></li>
     <li><font face="Times New Roman"> Ahsan Shehzad, Dongyu Zhang, <u><strong>Shuo Yu</strong></u>, Shagufta Abid, Feng Xia. Dynamic Graph Transformer for Brain Disorder Diagnosis, IEEE Journal of Biomedical and Health Informatics. DOI: 10.1109/JBHI.2025.3538040.<a href="https://ieeexplore.ieee.org/abstract/document/10870198">(PDF)</a></font></li>
 <li><font face="Times New Roman"> <u><strong>Shuo Yu</strong></u>, Yicong Li, Shuo Wang, Tao Tang, Qiang Zhang, Jingjing Zhou, Ivan Lee, and Feng Xia. CaGE: A Causality-inspired Graph Neural Network Explainer for Recommender Systems, <strong>ACM Transactions on Information Systems</strong>. DOI: 10.1145/3729224.<a href="https://doi.org/10.1145/3729224">(PDF)</a></font></li>
@@ -250,3 +251,4 @@ redirect_from:
   <li><font face="Times New Roman">Jun Zhang, Zhaolong Ning, Xiaomei Bai, and Wei Wang, <u><strong>Shuo Yu</strong></u>, and Feng Xia. 2016. Who are the Rising Stars in Academia?<strong> In  Proceedings of the 16th ACM/IEEE-CS on Joint Conference on Digital Libraries (JCDL'16)</strong>. Association for Computing Machinery, New York, NY, USA, 211–212.  <a href="https://dl.acm.org/doi/10.1145/2910896.2925436">(PDF)</a></font></li>
   <li><font face="Times New Roman">Yan Hu, Jun Zhang, Xiaomei Bai, <u><strong>Shuo Yu</strong></u>, and Zhuo Yang. 2016.  Influence analysis of Github repositories.  SpringerPlus.  5, 1, 1268. <a href="https://springerplus.springeropen.com/articles/10.1186/s40064-016-2897-7">(PDF)</a></font></li>
 </ul>
+
